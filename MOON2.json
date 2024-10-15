@@ -1,0 +1,3602 @@
+[
+    {
+        "subMoonCount": 1,
+        "moonCount": 10,
+        "shortDirection": -7,
+        "longDirection": -7,
+        "longDirection2": -13,
+        "moonDirection": 3,
+        "longDirection3": -21
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": -7,
+        "moonDirection": 3,
+        "longDirection3": -21
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -4,
+        "moonDirection": 3,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -4,
+        "moonDirection": 3,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -7,
+        "longDirection": -7,
+        "longDirection2": 2,
+        "moonDirection": 6,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": -7,
+        "moonDirection": 12,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 17,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -7,
+        "moonDirection": 24,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 16,
+        "shortDirection": -1,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 21,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 16,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": -7,
+        "moonDirection": 21,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 15,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 18,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 15,
+        "shortDirection": 5,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 18,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 14,
+        "shortDirection": 5,
+        "longDirection": 8,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 15,
+        "shortDirection": 8,
+        "longDirection": 8,
+        "longDirection2": 5,
+        "moonDirection": 18,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 16,
+        "shortDirection": -7,
+        "longDirection": -1,
+        "longDirection2": -1,
+        "moonDirection": 21,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 15,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 18,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 14,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 15,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 5,
+        "moonDirection": 12,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": 11,
+        "longDirection2": 11,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 11,
+        "shortDirection": 8,
+        "longDirection": 14,
+        "longDirection2": 14,
+        "moonDirection": 6,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 11,
+        "shortDirection": 11,
+        "longDirection": 14,
+        "longDirection2": 14,
+        "moonDirection": 6,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 8,
+        "moonCount": 11,
+        "shortDirection": 14,
+        "longDirection": 14,
+        "longDirection2": 17,
+        "moonDirection": 6,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 9,
+        "moonCount": 10,
+        "shortDirection": 14,
+        "longDirection": 14,
+        "longDirection2": 17,
+        "moonDirection": 3,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 10,
+        "moonCount": 10,
+        "shortDirection": 17,
+        "longDirection": 14,
+        "longDirection2": 20,
+        "moonDirection": 3,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 9,
+        "moonCount": 10,
+        "shortDirection": 11,
+        "longDirection": 14,
+        "longDirection2": 20,
+        "moonDirection": 3,
+        "longDirection3": 18
+    },
+    {
+        "subMoonCount": 8,
+        "moonCount": 10,
+        "shortDirection": 8,
+        "longDirection": 14,
+        "longDirection2": 20,
+        "moonDirection": 3,
+        "longDirection3": 18
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 17,
+        "longDirection2": 23,
+        "moonDirection": 9,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 20,
+        "longDirection2": 20,
+        "moonDirection": 9,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 20,
+        "longDirection2": 20,
+        "moonDirection": 6,
+        "longDirection3": 24
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 14,
+        "shortDirection": -7,
+        "longDirection": -4,
+        "longDirection2": 11,
+        "moonDirection": 15,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 13,
+        "shortDirection": -7,
+        "longDirection": -4,
+        "longDirection2": 14,
+        "moonDirection": 12,
+        "longDirection3": 18
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 13,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": 17,
+        "moonDirection": 12,
+        "longDirection3": 18
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": 17,
+        "moonDirection": 9,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": 20,
+        "moonDirection": 6,
+        "longDirection3": 24
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": -1,
+        "longDirection2": 14,
+        "moonDirection": 6,
+        "longDirection3": 18
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": -1,
+        "longDirection2": 11,
+        "moonDirection": 3,
+        "longDirection3": 18
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": 11,
+        "moonDirection": 3,
+        "longDirection3": 18
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -16,
+        "moonDirection": 3,
+        "longDirection3": -18
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -13,
+        "moonDirection": 3,
+        "longDirection3": -21
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -7,
+        "longDirection": -7,
+        "longDirection2": -7,
+        "moonDirection": 3,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 15,
+        "shortDirection": -10,
+        "longDirection": -13,
+        "longDirection2": -13,
+        "moonDirection": 18,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 15,
+        "shortDirection": -7,
+        "longDirection": -13,
+        "longDirection2": -13,
+        "moonDirection": 18,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 15,
+        "shortDirection": -4,
+        "longDirection": -13,
+        "longDirection2": -10,
+        "moonDirection": 18,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 16,
+        "shortDirection": -1,
+        "longDirection": -10,
+        "longDirection2": -16,
+        "moonDirection": 21,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 16,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": -13,
+        "moonDirection": 21,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 15,
+        "shortDirection": -1,
+        "longDirection": -4,
+        "longDirection2": -10,
+        "moonDirection": 18,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 15,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 18,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 14,
+        "shortDirection": 5,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 15,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 14,
+        "shortDirection": 5,
+        "longDirection": -1,
+        "longDirection2": -7,
+        "moonDirection": 15,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 13,
+        "shortDirection": 8,
+        "longDirection": 2,
+        "longDirection2": -7,
+        "moonDirection": 12,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 12,
+        "shortDirection": 11,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 8,
+        "moonCount": 12,
+        "shortDirection": 14,
+        "longDirection": 8,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 9,
+        "moonCount": 12,
+        "shortDirection": 11,
+        "longDirection": 11,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 11,
+        "longDirection2": 5,
+        "moonDirection": 12,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 11,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 14,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": 14,
+        "longDirection2": 8,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": 17,
+        "longDirection2": 11,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": 17,
+        "longDirection2": 14,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": 17,
+        "longDirection2": 17,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 11,
+        "longDirection2": 20,
+        "moonDirection": 9,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 11,
+        "longDirection2": 17,
+        "moonDirection": 9,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 17,
+        "moonDirection": 12,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 20,
+        "moonDirection": 15,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 23,
+        "moonDirection": 15,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 17,
+        "moonDirection": 15,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 17,
+        "moonDirection": 15,
+        "longDirection3": 18
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 14,
+        "moonDirection": 15,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 16,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": 5,
+        "moonDirection": 21,
+        "longDirection3": 18
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 17,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": 8,
+        "moonDirection": 24,
+        "longDirection3": 18
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 16,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 8,
+        "moonDirection": 21,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 16,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 8,
+        "moonDirection": 21,
+        "longDirection3": 24
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 15,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 11,
+        "moonDirection": 18,
+        "longDirection3": 27
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 14,
+        "shortDirection": 5,
+        "longDirection": 8,
+        "longDirection2": 11,
+        "moonDirection": 15,
+        "longDirection3": 30
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 14,
+        "shortDirection": 8,
+        "longDirection": 8,
+        "longDirection2": 11,
+        "moonDirection": 15,
+        "longDirection3": 27
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 14,
+        "shortDirection": 11,
+        "longDirection": 11,
+        "longDirection2": 11,
+        "moonDirection": 15,
+        "longDirection3": 27
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 14,
+        "shortDirection": 8,
+        "longDirection": 8,
+        "longDirection2": 11,
+        "moonDirection": 15,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 8,
+        "moonCount": 13,
+        "shortDirection": 8,
+        "longDirection": 11,
+        "longDirection2": 11,
+        "moonDirection": 12,
+        "longDirection3": 24
+    },
+    {
+        "subMoonCount": 8,
+        "moonCount": 12,
+        "shortDirection": 8,
+        "longDirection": 11,
+        "longDirection2": 14,
+        "moonDirection": 9,
+        "longDirection3": 24
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 11,
+        "longDirection2": 14,
+        "moonDirection": 9,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": 14,
+        "longDirection2": 14,
+        "moonDirection": 6,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": 14,
+        "longDirection2": 14,
+        "moonDirection": 6,
+        "longDirection3": 24
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": 17,
+        "longDirection2": 17,
+        "moonDirection": 3,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 14,
+        "longDirection2": 17,
+        "moonDirection": 6,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": 14,
+        "longDirection2": 17,
+        "moonDirection": 3,
+        "longDirection3": 24
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 11,
+        "longDirection2": 20,
+        "moonDirection": 3,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 14,
+        "longDirection2": 23,
+        "moonDirection": 3,
+        "longDirection3": 24
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 23,
+        "moonDirection": 3,
+        "longDirection3": 24
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 17,
+        "moonDirection": 3,
+        "longDirection3": 24
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": 5,
+        "longDirection2": 11,
+        "moonDirection": 3,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -4,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 18
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": 8,
+        "moonDirection": 6,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 24
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -7,
+        "longDirection": -7,
+        "longDirection2": -19,
+        "moonDirection": 6,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": -10,
+        "longDirection2": -19,
+        "moonDirection": 9,
+        "longDirection3": -18
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -16,
+        "moonDirection": 9,
+        "longDirection3": -18
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": -13,
+        "moonDirection": 9,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -10,
+        "moonDirection": 6,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -4,
+        "moonDirection": 6,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 9,
+        "longDirection3": -18
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": -7,
+        "moonDirection": 9,
+        "longDirection3": -18
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 6,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 6,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 6,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 11,
+        "shortDirection": 8,
+        "longDirection": 8,
+        "longDirection2": 2,
+        "moonDirection": 6,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -7,
+        "moonDirection": 9,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": 8,
+        "longDirection2": 2,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 10,
+        "shortDirection": 8,
+        "longDirection": 11,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 10,
+        "shortDirection": 11,
+        "longDirection": 14,
+        "longDirection2": 5,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": 8,
+        "longDirection2": 11,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": 11,
+        "longDirection2": 14,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 8,
+        "longDirection2": 14,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": 11,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": 11,
+        "moonDirection": 6,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": 8,
+        "moonDirection": 6,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 8,
+        "moonDirection": 6,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 18
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -13,
+        "longDirection2": -16,
+        "moonDirection": 9,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -13,
+        "longDirection2": -16,
+        "moonDirection": 6,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -13,
+        "longDirection2": -19,
+        "moonDirection": 6,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -19,
+        "moonDirection": 3,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": -16,
+        "moonDirection": 3,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": -10,
+        "longDirection2": -16,
+        "moonDirection": 3,
+        "longDirection3": -21
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": -1,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 13,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -1,
+        "moonDirection": 12,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 13,
+        "shortDirection": -4,
+        "longDirection": -13,
+        "longDirection2": -4,
+        "moonDirection": 12,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": 2,
+        "moonDirection": 6,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": -4,
+        "moonDirection": 15,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 15,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 18,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 15,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -10,
+        "moonDirection": 18,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 15,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": -7,
+        "moonDirection": 18,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 16,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -7,
+        "moonDirection": 21,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 16,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 21,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 16,
+        "shortDirection": 5,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 21,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 15,
+        "shortDirection": 8,
+        "longDirection": 8,
+        "longDirection2": -1,
+        "moonDirection": 18,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 14,
+        "shortDirection": 8,
+        "longDirection": 8,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 14,
+        "shortDirection": 8,
+        "longDirection": 11,
+        "longDirection2": 5,
+        "moonDirection": 15,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 17,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 5,
+        "moonDirection": 24,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": 14,
+        "moonDirection": 3,
+        "longDirection3": 24
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 21
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 24
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 15,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": -4,
+        "moonDirection": 18,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 15,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": -1,
+        "moonDirection": 18,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 14,
+        "shortDirection": -4,
+        "longDirection": -4,
+        "longDirection2": -1,
+        "moonDirection": 15,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": -4,
+        "longDirection2": 2,
+        "moonDirection": 12,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": 2,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": 11,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 0,
+        "moonCount": 13,
+        "shortDirection": -10,
+        "longDirection": -4,
+        "longDirection2": 5,
+        "moonDirection": 12,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": -10,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": 5,
+        "moonDirection": 6,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": -1,
+        "longDirection2": 11,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 10,
+        "shortDirection": 8,
+        "longDirection": -1,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 10,
+        "shortDirection": 8,
+        "longDirection": -1,
+        "longDirection2": 5,
+        "moonDirection": 3,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 6,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 8,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 11,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 11,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": 5,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 8,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": 11,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 6,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": -1,
+        "moonDirection": 6,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -10,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -10,
+        "moonDirection": 3,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 11,
+        "shortDirection": -7,
+        "longDirection": -13,
+        "longDirection2": -10,
+        "moonDirection": 6,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 11,
+        "shortDirection": -7,
+        "longDirection": -10,
+        "longDirection2": -10,
+        "moonDirection": 6,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -7,
+        "moonDirection": 3,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": -10,
+        "longDirection2": -7,
+        "moonDirection": 3,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -7,
+        "longDirection2": -10,
+        "moonDirection": 6,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -10,
+        "moonDirection": 3,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -7,
+        "moonDirection": 3,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 3,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": -1,
+        "moonDirection": 6,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -7,
+        "moonDirection": 3,
+        "longDirection3": -24
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -4,
+        "moonDirection": 3,
+        "longDirection3": -21
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -7,
+        "moonDirection": 3,
+        "longDirection3": -18
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -13,
+        "moonDirection": 3,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -10,
+        "moonDirection": 3,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -7,
+        "moonDirection": 3,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": -4,
+        "moonDirection": 6,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": -7,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -10,
+        "moonDirection": 9,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": -4,
+        "longDirection2": -10,
+        "moonDirection": 9,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": -7,
+        "moonDirection": 12,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -7,
+        "moonDirection": 12,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": 8,
+        "longDirection2": 11,
+        "moonDirection": 6,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 15
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 6,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": 5,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -4,
+        "longDirection2": 5,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": 5,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 13,
+        "shortDirection": -10,
+        "longDirection": -10,
+        "longDirection2": -7,
+        "moonDirection": 12,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": -7,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -4,
+        "longDirection2": -4,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": -1,
+        "longDirection2": -1,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": -1,
+        "longDirection2": -1,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 5,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 8,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 2,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 3,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": 8,
+        "moonDirection": 6,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 11,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -4,
+        "moonDirection": 6,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": -13,
+        "longDirection2": -10,
+        "moonDirection": 9,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -10,
+        "moonDirection": 6,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -10,
+        "moonDirection": 6,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 3,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": -1,
+        "longDirection2": -7,
+        "moonDirection": 3,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": -1,
+        "moonDirection": 15,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 14,
+        "shortDirection": -1,
+        "longDirection": 8,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 14,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 14,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 12,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -4,
+        "longDirection2": 5,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": 5,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 12,
+        "shortDirection": -10,
+        "longDirection": -1,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -7,
+        "longDirection": -1,
+        "longDirection2": 5,
+        "moonDirection": 6,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -4,
+        "longDirection2": 5,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -10,
+        "longDirection2": 5,
+        "moonDirection": 6,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -7,
+        "longDirection2": 8,
+        "moonDirection": 6,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": -4,
+        "longDirection2": 11,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 9,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": -7,
+        "moonDirection": 9,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 3,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 6,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 8,
+        "moonDirection": 6,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 5,
+        "moonDirection": 15,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 12,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 12,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 15,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": 5,
+        "moonDirection": 18,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 15,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 15,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 15,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 12,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 12,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 8,
+        "longDirection": 5,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 11,
+        "shortDirection": 8,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 6,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 8,
+        "moonCount": 10,
+        "shortDirection": 8,
+        "longDirection": 11,
+        "longDirection2": 11,
+        "moonDirection": 3,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -13,
+        "longDirection2": -7,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": -10,
+        "longDirection2": -16,
+        "moonDirection": 9,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": -10,
+        "longDirection2": -13,
+        "moonDirection": 9,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -13,
+        "moonDirection": 9,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -4,
+        "longDirection2": -10,
+        "moonDirection": 6,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": -13,
+        "moonDirection": 6,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -4,
+        "longDirection2": -10,
+        "moonDirection": 3,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -7,
+        "longDirection": 2,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -18
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 3,
+        "longDirection3": -18
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": -18
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -4,
+        "longDirection2": -4,
+        "moonDirection": 3,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": -4,
+        "moonDirection": 3,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 3,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -7,
+        "longDirection": -1,
+        "longDirection2": -4,
+        "moonDirection": 3,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 10,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 3,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 13,
+        "shortDirection": -4,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 12,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -7,
+        "moonDirection": 9,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 16,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -4,
+        "moonDirection": 21,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 16,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": -4,
+        "moonDirection": 21,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 15,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": -1,
+        "moonDirection": 18,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 15,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -1,
+        "moonDirection": 18,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": -1,
+        "moonDirection": 15,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 12,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 13,
+        "shortDirection": 8,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 12,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 2,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 5,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": 11,
+        "longDirection2": 5,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": 11,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 11,
+        "shortDirection": -7,
+        "longDirection": -7,
+        "longDirection2": -10,
+        "moonDirection": 6,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": -4,
+        "longDirection2": -10,
+        "moonDirection": 9,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -10,
+        "moonDirection": 6,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": -4,
+        "longDirection2": -4,
+        "moonDirection": 3,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 0,
+        "moonCount": 11,
+        "shortDirection": -10,
+        "longDirection": -10,
+        "longDirection2": 2,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 11,
+        "shortDirection": -7,
+        "longDirection": -7,
+        "longDirection2": 2,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -7,
+        "longDirection2": -1,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": -1,
+        "moonDirection": 6,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": -4,
+        "longDirection2": -1,
+        "moonDirection": 3,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": -7,
+        "longDirection2": -7,
+        "moonDirection": 9,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 5,
+        "longDirection": -4,
+        "longDirection2": -4,
+        "moonDirection": 6,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": -1,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 6,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 13,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -7,
+        "moonDirection": 12,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 14,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 15,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 15,
+        "shortDirection": -4,
+        "longDirection": -1,
+        "longDirection2": -1,
+        "moonDirection": 18,
+        "longDirection3": -6
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 15,
+        "shortDirection": -1,
+        "longDirection": -1,
+        "longDirection2": 2,
+        "moonDirection": 18,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 15,
+        "longDirection3": -3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 8,
+        "moonDirection": 15,
+        "longDirection3": 0
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 8,
+        "moonDirection": 12,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": 8,
+        "moonDirection": 12,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 13,
+        "shortDirection": 8,
+        "longDirection": 5,
+        "longDirection2": 11,
+        "moonDirection": 12,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 13,
+        "shortDirection": 8,
+        "longDirection": 8,
+        "longDirection2": 14,
+        "moonDirection": 12,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 3
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 6
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 6,
+        "longDirection3": 9
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": -1,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 3,
+        "longDirection3": 12
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 10,
+        "shortDirection": -7,
+        "longDirection": -16,
+        "longDirection2": -28,
+        "moonDirection": 3,
+        "longDirection3": -39
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -13,
+        "longDirection2": -25,
+        "moonDirection": 6,
+        "longDirection3": -36
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": -16,
+        "longDirection2": -25,
+        "moonDirection": 9,
+        "longDirection3": -39
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": -13,
+        "longDirection2": -22,
+        "moonDirection": 9,
+        "longDirection3": -39
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -10,
+        "longDirection2": -19,
+        "moonDirection": 9,
+        "longDirection3": -36
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -10,
+        "longDirection2": -19,
+        "moonDirection": 6,
+        "longDirection3": -33
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": -1,
+        "longDirection": -7,
+        "longDirection2": -16,
+        "moonDirection": 6,
+        "longDirection3": -30
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -13,
+        "moonDirection": 3,
+        "longDirection3": -27
+    },
+    {
+        "subMoonCount": 0,
+        "moonCount": 10,
+        "shortDirection": -10,
+        "longDirection": -7,
+        "longDirection2": -16,
+        "moonDirection": 3,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 1,
+        "moonCount": 10,
+        "shortDirection": -7,
+        "longDirection": -7,
+        "longDirection2": -13,
+        "moonDirection": 3,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 11,
+        "shortDirection": -4,
+        "longDirection": -13,
+        "longDirection2": -13,
+        "moonDirection": 6,
+        "longDirection3": -18
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": -16,
+        "longDirection2": -13,
+        "moonDirection": 9,
+        "longDirection3": -18
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": -13,
+        "longDirection2": -10,
+        "moonDirection": 9,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": -10,
+        "longDirection2": -10,
+        "moonDirection": 9,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 11,
+        "shortDirection": 2,
+        "longDirection": -7,
+        "longDirection2": -7,
+        "moonDirection": 6,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -4,
+        "longDirection2": -7,
+        "moonDirection": 3,
+        "longDirection3": -15
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 5,
+        "longDirection": -1,
+        "longDirection2": -10,
+        "moonDirection": 3,
+        "longDirection3": -12
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": -10,
+        "moonDirection": 3,
+        "longDirection3": -9
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 10,
+        "shortDirection": 2,
+        "longDirection": -1,
+        "longDirection2": -10,
+        "moonDirection": 3,
+        "longDirection3": -9
+    }
+]

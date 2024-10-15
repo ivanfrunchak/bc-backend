@@ -1,0 +1,29 @@
+diff --git a/node_modules/kucoin-node-api/lib/user.js b/node_modules/kucoin-node-api/lib/user.js
+index ce6c51a..4217f53 100644
+--- a/node_modules/kucoin-node-api/lib/user.js
++++ b/node_modules/kucoin-node-api/lib/user.js
+@@ -113,6 +113,24 @@ User.innerTransfer = async function(params) {
+   return result.data
+ }
+ 
++/*  
++  Inner Transfer
++  POST /api/accounts/inner-transfer
++  params = {
++    clientOid: string
++    currency: string,
++    from: string
++    to: string
++    amount: string
++  }
++*/
++User.subTransfer = async function(params) {
++  let endpoint = '/api/v2/accounts/sub-transfer'
++  let url = this.baseURL + endpoint
++  let result = await axios.post(url, params, this.sign(endpoint, params, 'POST'))
++  return result.data
++}
++
+ /*  
+   Create Deposit Address
+   POST /api/v1/deposit-addresses

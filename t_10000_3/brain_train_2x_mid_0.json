@@ -1,0 +1,74 @@
+{
+    "type": "NeuralNetwork",
+    "sizes": [
+        5,
+        2,
+        1
+    ],
+    "layers": [
+        {
+            "weights": [],
+            "biases": []
+        },
+        {
+            "weights": [
+                [
+                    -0.8275927305221558,
+                    -0.6371874809265137,
+                    -5.809530735015869,
+                    -7.645897388458252,
+                    -0.7061856985092163
+                ],
+                [
+                    -7.058220386505127,
+                    -13.146352767944336,
+                    13.341902732849121,
+                    -8.132852554321289,
+                    -6.224926471710205
+                ]
+            ],
+            "biases": [
+                -0.977371096611023,
+                -6.852380275726318
+            ]
+        },
+        {
+            "weights": [
+                [
+                    1.7153823375701904,
+                    0.7157124280929565
+                ]
+            ],
+            "biases": [
+                -0.14224660396575928
+            ]
+        }
+    ],
+    "inputLookup": null,
+    "inputLookupLength": 0,
+    "outputLookup": null,
+    "outputLookupLength": 0,
+    "options": {
+        "inputSize": 0,
+        "outputSize": 0,
+        "binaryThresh": 0.5,
+        "hiddenLayers": [
+            2
+        ]
+    },
+    "trainOpts": {
+        "activation": "sigmoid",
+        "iterations": 20000,
+        "errorThresh": 0.005,
+        "log": false,
+        "logPeriod": 10,
+        "leakyReluAlpha": 0.01,
+        "learningRate": 0.3,
+        "momentum": 0.1,
+        "callbackPeriod": 10,
+        "timeout": "Infinity",
+        "beta1": 0.9,
+        "beta2": 0.999,
+        "epsilon": 1e-8
+    }
+}

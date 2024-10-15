@@ -1,0 +1,1822 @@
+[
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": -3,
+        "lastHash": "2d081b63bed7081574d4084ede434d21ff11b6be6f5ee4e21ff33ad3d937f970"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 11,
+        "moonDirection": 12,
+        "longDirection3": 9,
+        "lastHash": "ce1c589e203d746cc32a4f4011f61c7ea1f8697d1e25c9f0489b868575db92fe"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 13,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 12,
+        "longDirection3": -15,
+        "lastHash": "60c4c27d2a07918e456e68094508a32806f3057f6c3787b4db6aa1841ecbf9c2"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 12,
+        "longDirection3": 6,
+        "lastHash": "a627e0a54092831b4ab7c2374b972cc58dfdaab4ac5b6b0ea7849a579adf44e3"
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 12,
+        "shortDirection": 8,
+        "longDirection": 11,
+        "longDirection2": 14,
+        "moonDirection": 9,
+        "longDirection3": 12,
+        "lastHash": "c181c849ee9b36e15ee8dd6ea31b574c6aa1a76aa0d0cd7abf8881cecd92c42a"
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 12,
+        "shortDirection": 8,
+        "longDirection": 8,
+        "longDirection2": 17,
+        "moonDirection": 9,
+        "longDirection3": 21,
+        "lastHash": "ba7d3d1fb6d16809f173877a00c83ddf503224818a44b9772aea0d27676c3928"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 14,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": 12,
+        "lastHash": "2b497c2572035a31a4aaff90f41b44827cf5c65893fc3b56ba92c0e3d4a9ecd4"
+    },
+    {
+        "subMoonCount": 8,
+        "moonCount": 13,
+        "shortDirection": 8,
+        "longDirection": 2,
+        "longDirection2": 11,
+        "moonDirection": 12,
+        "longDirection3": 21,
+        "lastHash": "bcb8889724fc0b855e33131dea76fc1e76a37c0771e0f928d75113bbb08f46e1"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 3,
+        "lastHash": "8b46c6f48d92e950eb561a70e9345a562ade07f1688ed80b6ca83f09bbc7b8ee"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 12,
+        "longDirection3": 6,
+        "lastHash": "ce11764c51e6804abbe663a1ccba75c3a93beeb445309ea6131b885dbf23f64c"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 16,
+        "shortDirection": -1,
+        "longDirection": 8,
+        "longDirection2": 11,
+        "moonDirection": 21,
+        "longDirection3": 9,
+        "lastHash": "fc1cab28d12e71d7e1857a31ebd895e6fc1baa6a777af3f32c983e36eaf617fc"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 14,
+        "moonDirection": 9,
+        "longDirection3": 6,
+        "lastHash": "431dc92e0c22d32fb6f254098bc38f74a1e44a779c1e2b7e083461998a89eec3"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 0,
+        "lastHash": "9a7a3dd8d5156c1be6e9032ab07ec5f8345cf72a42b68dc025837889b76a0ff3"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 0,
+        "lastHash": "2dafd5be2b44aced5fc836708a8d6ffee182135136e7389bc51ab726016ff6dd"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 0,
+        "lastHash": "db18858cb30aae08f7cd40a3dfc7e1ddb1066d71a1c3a4c49391eb1512c0d661"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 16,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 21,
+        "longDirection3": -6,
+        "lastHash": "86566dbef14abd1193f69187742644abf298d591d2877b87b905285f6579112e"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 8,
+        "longDirection2": 14,
+        "moonDirection": 9,
+        "longDirection3": 21,
+        "lastHash": "73948c336d9a75b4c091d54576635c60c6912c8962f57e15ffb8764d7e9bb67c"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 15,
+        "lastHash": "64e0d93272e2de8950158dc68569dc4ab64564beeee8c0516e0c7ff85f78863d"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 14,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 15,
+        "longDirection3": -6,
+        "lastHash": "e638fa6a12f895ae21d594b8fe236f98a379b2f3caae29381b20c47f85f10267"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 0,
+        "lastHash": "28eb65c11bc56241990b8f502788e972dfec1933b6de8e03c8c25d66df52b8c3"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 17,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 24,
+        "longDirection3": 0,
+        "lastHash": "0880d5d3a1023160932a971d2a4f898cfba5512bed614c9aa0f5a8e6b857fd5c"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 11,
+        "longDirection2": 20,
+        "moonDirection": 9,
+        "longDirection3": 24,
+        "lastHash": "3d86213b8d7d8318077ece114e8b9e2a88f2dcbf4a70ff59cb99e8a10c7a330c"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 12,
+        "longDirection3": -6,
+        "lastHash": "b5c0e65f0481827c9e5143ac5f26978ea4eb5467efc7f7b089d2de9d3618efe9"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 12,
+        "longDirection3": -6,
+        "lastHash": "93cf2a5da8d2f4ed6461b469f500e56ebf5d942becf9e521e8d56674a91e9642"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": 0,
+        "lastHash": "a08903e9ccf073898ee9b0d0efeea3eb35408846fe92329c8f92c6e3d0a151a8"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 12,
+        "longDirection3": -3,
+        "lastHash": "cbcbf694e823c50959cbecf43cdce84174ad6892116d1b39ef725543fcd4ee98"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -3,
+        "lastHash": "72bf0c844c5c78effc0f6514d304bc5e139bb021e2a16838e5714139063fc855"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": 3,
+        "lastHash": "9f7ef831134bf372f595e0939654a3c407c04b73fb3f1c34f79d2f469f7bbf3c"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 6,
+        "lastHash": "283e56e4ec3d08584ab18cc46bf15751e0fa7e04f365566e9eff10aed90fe8b9"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": 9,
+        "lastHash": "29971709e074f8eb6ce1e23fc82113030bced58d16f01cf6cda0c31300c91566"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": 15,
+        "lastHash": "c1762377e8bbac5d9997032836c2f09ad00a5062833cf9e79f675c7da5b04a80"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 13,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 12,
+        "longDirection3": -3,
+        "lastHash": "b0eb260cf789388c7996800a5b64e9fcdf1b960d0f77abbfabd47d23b74505e6"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 6,
+        "lastHash": "8b7c0c2d1a4a0f56c243f40368c81dfdca43a9bafa2c19fadd39bb7774f60d8f"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": -3,
+        "lastHash": "b114c571289895350bd4e25e3994f7b625dd0e859dac98bfd23d9fabf986a694"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": 0,
+        "lastHash": "8bbd3053b1f9008cdf8c2f941ca3c474e10f3e43a563fddb50ad7fa02c779a75"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 13,
+        "shortDirection": 8,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 12,
+        "longDirection3": -12,
+        "lastHash": "1982e7cdc74ae88e8934fae60540a3dcbceea9f03ae1072e7490207cabfee90f"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": 15,
+        "lastHash": "66b0b4850a682b18689f38143961382b8bbba5e66381b15f70b1da2a49e100dd"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 3,
+        "lastHash": "4f3b4df92e8e39deb314f8baa682949ef0221f4f0b44037f067f7cb6e24fd112"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 5,
+        "moonDirection": 12,
+        "longDirection3": 6,
+        "lastHash": "9650dcc03c2328fff22ce1a2422a2ecccaa16b407a01e8687bc9d3c2c5f953e3"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -3,
+        "lastHash": "753c3cd958d83269387c5206f4b54167a885dd3a6ee149d9fc7ae44c2a71d844"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 16,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 21,
+        "longDirection3": 3,
+        "lastHash": "16e653ed6cbb1d21cb69f665b00d3a080cfd41b97ee9f66f227048ec61f54487"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 9,
+        "lastHash": "3a0535396177a7700962cd6a7869b649723959727c8fb6677f366582c4fb37e0"
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 12,
+        "shortDirection": 8,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -9,
+        "lastHash": "ad39faa9398737cf7d5928e8bf8598209ca716162280c71e02bae5a2c90e9d69"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": 0,
+        "lastHash": "5bfee030513124a77261fcf0a6d4f5f9bdf6c585618e9063b2ce6ce514738dd2"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 14,
+        "shortDirection": 8,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": 9,
+        "lastHash": "76f0e18836ffd2972c6665082dd88b0b4c00d68519b0586007d9149ba2303792"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 14,
+        "moonDirection": 9,
+        "longDirection3": 18,
+        "lastHash": "0136e666e376a3bcab0740c16d673c650dc7c94dc92608b786521634e2979121"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": 3,
+        "lastHash": "979a9ccb2ffbc7e9046cf87414897f48a353d339ade165b246d115829f1beeaa"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": -6,
+        "lastHash": "93f0af902e0736bdb6be033eb0f5d0459493c9aaf7db5646d6398bc860c76c59"
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 12,
+        "longDirection3": 6,
+        "lastHash": "b3ad8a122355b36d03ff9264abc3dc9b2090c3b838ed10d5642005dfde0ba7a8"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": 14,
+        "moonDirection": 12,
+        "longDirection3": 12,
+        "lastHash": "163fae9a5401fe4efe9da0c39f2cd3709adee5cd7aaf79fafd6d39e226f12379"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 12,
+        "longDirection3": 0,
+        "lastHash": "347ba865da48906614516b786bdcc6f646350b5d09b73c768f0661bf5e2bef68"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 14,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 15,
+        "longDirection3": -12,
+        "lastHash": "05154f5933f30e062758eff2946eca0e21183ef12966b0729dd426a496c7a92a"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 14,
+        "longDirection2": 17,
+        "moonDirection": 9,
+        "longDirection3": 12,
+        "lastHash": "635c38d4d3a3db30340dcc02f4551f6fd738562e987437f2aefc391ecd9c76ce"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 15,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 11,
+        "moonDirection": 18,
+        "longDirection3": 18,
+        "lastHash": "df8eb36d45579d8cb9093342a47e0bbd3ec65a522a013126aa2d764e3a8301d4"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": 8,
+        "longDirection2": 11,
+        "moonDirection": 12,
+        "longDirection3": 18,
+        "lastHash": "c76b8ce622c471ec50e64c4781dec7dd68158d0c7e292737b71f2d1ddd6a4912"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 8,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -18,
+        "lastHash": "cf457fffa7bd486055a20614fffbb79eedb378216277e33ccf8d7e155bb48e78"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 11,
+        "moonDirection": 9,
+        "longDirection3": 9,
+        "lastHash": "04b2de88ca758fca2b28c9bd8649b54f2cbf2c9ff3471360acdc7e23016a9fd3"
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 12,
+        "shortDirection": 8,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 6,
+        "lastHash": "a5eebd8aef400a2762d7b4b94c38b186100d0eedbba6a1c36d9cb81d6a6a14ac"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 8,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 9,
+        "lastHash": "d4d3b4fddaad324c83b8fb59c1cc12bddfeb59c6153f452f439b4a8de9dc7ba6"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": -3,
+        "lastHash": "7a2a743f4017b03e25afb7e8d5ca7c6e0b4fe1acecef2a7ecbcf672840c98792"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": -3,
+        "lastHash": "da3293db6a7f259b12f7d4f5b2467caa8bfc82a951648293c3d65130d818bbea"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 15,
+        "shortDirection": -4,
+        "longDirection": 5,
+        "longDirection2": 2,
+        "moonDirection": 18,
+        "longDirection3": -6,
+        "lastHash": "c68f207e42aaa2a004fde66d3eb4e5bc751e491d73404f9db1d4fbcf6aa2c4da"
+    },
+    {
+        "subMoonCount": 9,
+        "moonCount": 13,
+        "shortDirection": 14,
+        "longDirection": 14,
+        "longDirection2": 14,
+        "moonDirection": 12,
+        "longDirection3": 24,
+        "lastHash": "29f676160cda278cff8b7a12086c1da5048ef7646940d1dbdef16f6d3c5e4b07"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": -3,
+        "lastHash": "707543506fb5442dca485bad9dd9f2f42083b7d5122b703cb74707a9e20d42d2"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -6,
+        "lastHash": "926b1f43ab4e0978e438ea0e7d40d079940de987b93fc6fd954182c07db4891c"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 6,
+        "lastHash": "aadf0400f1faf1c19b0e9e85b304a4a6cb8321022aa5999439a5f8308ed65043"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 15,
+        "lastHash": "23ddee5544abeb1dd9dddcf7cefa6fc0179acbd36965b7a1ac412c6ca60bdf98"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 15,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 18,
+        "longDirection3": -6,
+        "lastHash": "e0dfd858dd8eb1e2f0c52154c27f7ab0da9103f885031f2b1d54aa9ff92f2be7"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 14,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 3,
+        "lastHash": "256b73127b91ce416574c4e00d04b71b55077704b4e27057382c2f36d2d82dae"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -7,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 6,
+        "lastHash": "7354e5e8789dbdcf154e2fc337badd359b061b4d79719c5f656e11cb654a77a4"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 15,
+        "longDirection3": 9,
+        "lastHash": "54cf0b7e66f786c5245b0ebbec9a84759cc21316bec30e1edcfd42403fd51889"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": -9,
+        "lastHash": "8fbb3fc78e4f7025676c4c03b451b062160a4d3c85b9ba86fcb0f459f77daf69"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 18,
+        "shortDirection": -1,
+        "longDirection": 8,
+        "longDirection2": 11,
+        "moonDirection": 27,
+        "longDirection3": 12,
+        "lastHash": "e9daf89ddaa976985f9ed0e85cb03cbaa803ee1ebf8bbbba3f3cdf940544860c"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 8,
+        "longDirection": 2,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 6,
+        "lastHash": "e49c93751fe4f5918d791c9c47582363ec7a4136be234b6d6b78a51333aff46f"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 13,
+        "shortDirection": -4,
+        "longDirection": 8,
+        "longDirection2": 5,
+        "moonDirection": 12,
+        "longDirection3": 9,
+        "lastHash": "fcca5129668f01517c197d1cab9c645176cf9e52b9cdbc861a1bcc83bd9a4bb3"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 12,
+        "longDirection3": 21,
+        "lastHash": "f7045d945db823da09464e3e87a01d90b907cacbffcff4dfc6e5b4168351f2c2"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 13,
+        "shortDirection": -7,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 12,
+        "longDirection3": 9,
+        "lastHash": "19d279fdd55069efbacfd345a76ee7e31d0f9a92673f36fc86455726b7f05935"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 14,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 15,
+        "longDirection3": 3,
+        "lastHash": "ea299e4b18eb83b98afb0c9e95ed0b72987644ec407654daf6848575984acf8d"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 13,
+        "shortDirection": -4,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 12,
+        "longDirection3": 6,
+        "lastHash": "aa4e177f5852c83de49fe655c8e1833df56b6f8abf49a7e578139c00d745cd04"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 6,
+        "lastHash": "1d3244d566b5e979aade157ebbaf4044ee906d2e7477f6b1ad0d0b9cdc416da4"
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 13,
+        "shortDirection": 8,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 12,
+        "longDirection3": 15,
+        "lastHash": "f605a4782968c0f89b1fd9828a3b4e0116b851bc8cb632e6b8cd54a3321bcfa4"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -12,
+        "lastHash": "1be1bf6b7786ff16c928554b2c1265227218d0b9e9d4308e57c3add60fc0ff2b"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 15,
+        "lastHash": "f2c9bc549371c01fac9a18e9b11dbe75c47daaa06142a5d6eb2f8374d16deaca"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -12,
+        "lastHash": "64f7ea657fe4eff4d6b51692d20dd4774a4a1b9b11ef41a11cd5cdf618fb3dc9"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": 3,
+        "lastHash": "d9712257c99f0de2200f1e9e9140a8b585786ec656fb2d0a8400bfec2d12ee7f"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": -3,
+        "lastHash": "02236853a177fca1e20045d7d43187c0b40fe1668a40ce9f4fcd180254645858"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -6,
+        "lastHash": "077d7d10feee9167dc9006019bfde34afa27b45a01abe3fe3d94fe343be175d7"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 9,
+        "lastHash": "613d24823a054e8467c30bfcce06e6fc2fe629f5a8392ac5a9e9ceb12bbcba62"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": 0,
+        "lastHash": "0345186be6c1dcbef7f6e75b7804a809013e52fc18acef1a25bca58d829bf162"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 12,
+        "longDirection3": -3,
+        "lastHash": "b47071d91cde5df35af2908015537f387b68202b38f7fcb434721a81f607e85a"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 15,
+        "longDirection3": 6,
+        "lastHash": "613300a58365773f95164f770e54e10d8f649748afcfb5e34c96f6c599cc4c0a"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 12,
+        "longDirection3": -6,
+        "lastHash": "75e6d0e97bfbd47c7ee1e6bc978124d0e46254ade48b688c30a9270f1127b3a7"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 17,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 24,
+        "longDirection3": -12,
+        "lastHash": "7efafa778e0f949504e1550ac59256779960ca8f53adc6d22404c7ac322eec8a"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 17,
+        "longDirection2": 23,
+        "moonDirection": 9,
+        "longDirection3": 24,
+        "lastHash": "8ad1e027bc31486119de2747ea6918a25dc76aebf3a73045881d702d2199a1c1"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": 3,
+        "lastHash": "3c3606ff8122fb5528504628a89eefa37b906cd19e16feb31f17c44e07c50cb0"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": -6,
+        "lastHash": "4cf4f3a5c1931924bc861dfef6220156b8eda7c16c4c67ab222dace023600cb8"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 14,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": 3,
+        "lastHash": "f9f62ca512200ff20e755539d16b2f0441cf184c2bd9434fd2470f1f5d224a0a"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 8,
+        "longDirection2": 14,
+        "moonDirection": 9,
+        "longDirection3": 15,
+        "lastHash": "0e635da56bba78487f5d37a78923ca107b608960fe74b797ebacb865374e2c30"
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 12,
+        "shortDirection": 8,
+        "longDirection": 8,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": -6,
+        "lastHash": "6332a595e81e09a78206565b6d9a47d4418e0d909d0485296e3dc368eea25878"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 18,
+        "lastHash": "992634b6a306b76904577aeddb7ba47ddab03195d9e61fae5c8cbd2cccf6c8b5"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 14,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 15,
+        "longDirection3": 9,
+        "lastHash": "292b104c37d4b3f2b64a3d015d37522686bfb137fb55e9ee52ee4df61eafd55d"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 15,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 18,
+        "longDirection3": 9,
+        "lastHash": "d57b23fe3b3c7e4e07c55d507da1f5de9b2c2e70869c337b52e3a24f932458ad"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 17,
+        "longDirection2": 23,
+        "moonDirection": 9,
+        "longDirection3": 21,
+        "lastHash": "cd9713c366f637dc53476af1c6a1f6fd0d70c268fb2473bec89c6103453487d3"
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 12,
+        "shortDirection": 11,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -3,
+        "lastHash": "bfdd30851d6b947bfd7cc39c369c079859db98a277c37dc57979eefe07bb9f0a"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 23,
+        "moonDirection": 15,
+        "longDirection3": 12,
+        "lastHash": "f859e228267f0bdc85685f5be967077a7927174f33c288084b254050530bcb8c"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 11,
+        "longDirection2": 14,
+        "moonDirection": 9,
+        "longDirection3": 21,
+        "lastHash": "728297e37d03de63017af9040ee8ae50d222275c9bccf77a6534e44fa3332321"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -15,
+        "lastHash": "9a1b1eafa00a2e303232bb7f5abb2288bffa09a258bdaf3ec73e3b0aaff54b6e"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": 0,
+        "lastHash": "6a05fa06947673e1563333b60ade1c674a1b06dcd7ed84bbbb6916aa5e4c220e"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 16,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 21,
+        "longDirection3": 3,
+        "lastHash": "7dbf8e64d1770ccb7e3c11af1ed435bd69057be579683812a85da5f9526e2cef"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 2,
+        "longDirection": 14,
+        "longDirection2": 20,
+        "moonDirection": 12,
+        "longDirection3": 21,
+        "lastHash": "9927f02d23334ca07be3ceb3b29dd4abe2ab3d10285013f61803fe4b8a8866c5"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 21,
+        "lastHash": "8f3074ab07839fd944f183ca75c9197b0f797bfbd20b380631bc8c746d800ec8"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 0,
+        "lastHash": "1ddc85e61f5ed7bfe7700b3e2deb12c9c78728c1823ed9e8cd29f9591cb0b0fc"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": -6,
+        "lastHash": "349e543dff12031191fe579551721e177c56290729ac6df07b6312fbc2ca23d8"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 9,
+        "lastHash": "b8acb45088a671856b70a45af2758151b2e8c42cc44bb1cb8e9c4fc7128607df"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": -3,
+        "lastHash": "3419a5bb8a6ae2f8bb783aa69b7b9d14f9697db05923446df0f388b6212ffa14"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 5,
+        "moonDirection": 15,
+        "longDirection3": -3,
+        "lastHash": "390484db31e7869662081e0cf1a9a82f7568bd895fe2f878429bffb76497d768"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 12,
+        "longDirection3": 0,
+        "lastHash": "570ee2a66887db4a895b8f31930fbfbaffafc27fbca94f880b49dd5b1c6cfc31"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": 9,
+        "lastHash": "bb2da899d5f15186d86621a220990c85f165b4a69ea8663fadcd2d5537541440"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 6,
+        "lastHash": "fb86b8935b2bddded27a2053ca1bd705c144a111f555461c502d0d27fca6b920"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 0,
+        "lastHash": "eb6e57cc486a2ffe132ebacd945b7053e93f9997a8293933d2d1a82f59102365"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 12,
+        "longDirection3": 15,
+        "lastHash": "4e72fc9933979036553e36788207d3966bad330ec60a5508d6011dc035fd1e44"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 12,
+        "longDirection3": -18,
+        "lastHash": "ca8735cd7d03ba8af6af4ace71dd9d09e335a778d80d070f2d6dcaa9b1deae42"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 16,
+        "shortDirection": -4,
+        "longDirection": 5,
+        "longDirection2": 11,
+        "moonDirection": 21,
+        "longDirection3": 9,
+        "lastHash": "a306273b5b2f263a21a3b5a582abf49139e81a257a47392aca1ffc7e0ca39055"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": -6,
+        "lastHash": "7133af981a8e1036cadecd0337af61aa2ee69ce36521b35243c4ce22f2af5540"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 12,
+        "longDirection3": 9,
+        "lastHash": "765279e0ff619730656a249cac4997744d223e14bb9d80ae94c88ea54e3113d4"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 12,
+        "longDirection3": -12,
+        "lastHash": "bc6f9cdb5bb42a7d18fc8b3fe37600030e13d456cd34e3aaae96667e24b5d553"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": 3,
+        "lastHash": "e1a158dc7fecfb7c0022d757b5f5e95f5618f5f0336109bc9ef7617191b06c5c"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 12,
+        "longDirection3": 3,
+        "lastHash": "ae478dc6efcc4ed0ba2ff0d3162e285d0b85ea4febdbb8534892b198c9e40495"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 6,
+        "lastHash": "89794fcbea0536754b6d26d9a34284b1cadfa0532f2f3cf7d2b8caa559dad327"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 15,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 18,
+        "longDirection3": 0,
+        "lastHash": "f740f0189ec3b753530e0476e5d22a7dcbd9a149431e446d4774d19a180b1c08"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 8,
+        "longDirection2": 14,
+        "moonDirection": 9,
+        "longDirection3": 15,
+        "lastHash": "9305899cfbf7c795c13545dca2c2358a48c39bb5417d555e0edb6769633de96d"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 15,
+        "lastHash": "dcf49c702e301aa580ff3e703093144019327c330edefa2a22a336dd01480228"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": 3,
+        "lastHash": "e29126f7609b5ab2837f38dfca1fe7d9c4962d1c4e0d219df3be588b182ea5a9"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 13,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 5,
+        "moonDirection": 12,
+        "longDirection3": 3,
+        "lastHash": "153fcea3bb87f48aca253a1219a3a5e8ee845e4e071c6c6a692baad373653024"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": -3,
+        "lastHash": "3b4fe8fa361260d99237f530f05e559db7b867763d4de8aed02deeb1a9b289f9"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": 3,
+        "lastHash": "ff0dc07cad470ecf00984bbf17a93f14de6ea2dcb218bb5ceaf3405fe9803070"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 6,
+        "lastHash": "66a1e887f6eb3eab7cfec74af3d585baeb1f7572663ec0e35cc25c6a6d40cc57"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 14,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 15,
+        "longDirection3": 3,
+        "lastHash": "a6a37b8bc56f07be396516c9580d4108129af6f1524a64e82c1a6280a3c6b30c"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": 3,
+        "lastHash": "640a5b0e3a88c8ab1ab0b5ee6ac4d1196d8cde38bab9b8e36e5ab96d5b173b7b"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 14,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 17,
+        "moonDirection": 15,
+        "longDirection3": 12,
+        "lastHash": "36212e572b859c92cf0721081a2b49951b306f4c39403cca49b74fb51a4e9da1"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 15,
+        "longDirection3": 0,
+        "lastHash": "5eb0531deddeab222ef1b640d0f5cc7fb34cd966fd75940f19f1476a6029a013"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 11,
+        "moonDirection": 12,
+        "longDirection3": 12,
+        "lastHash": "23a0435cb3e16aa7b3654138b00ff0c7c3f07cc5699960031bfe9c9760526647"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 13,
+        "shortDirection": 8,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 12,
+        "longDirection3": -9,
+        "lastHash": "dae54d14c2c8ece71b575768fdddfd21a1a2c6a730a493fc64f7cf02b4480c06"
+    },
+    {
+        "subMoonCount": 8,
+        "moonCount": 14,
+        "shortDirection": 11,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": 9,
+        "lastHash": "b4e4f5525fa5afe236cb186e006b4e1a8a9921994fa1f3fbba3dfcd744f7c887"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 15,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 8,
+        "moonDirection": 18,
+        "longDirection3": 18,
+        "lastHash": "09549f77a49198ecef529832274b980ecefc71df572dd7f65e4447ae796ad44f"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": -6,
+        "lastHash": "83b35cc2c66ac3466e34d59b6861ef4bfe192010b5b536fc54c072a7d8c274f1"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 2,
+        "moonDirection": 12,
+        "longDirection3": 6,
+        "lastHash": "99f68acd30dabd5038fbb000db5889576ef0dffd0ef6ebd320e601fe3944c3a1"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 12,
+        "longDirection3": 6,
+        "lastHash": "f4908916105be736cc4c51782397057f608c6e559ddaede76b246a30c0bb0316"
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 12,
+        "longDirection3": 3,
+        "lastHash": "c354a874ae5d40262562c011fcee96a7cc5da79b804e9ea3532f5a5c3e9a3baf"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 5,
+        "longDirection2": 17,
+        "moonDirection": 9,
+        "longDirection3": 9,
+        "lastHash": "e4c4a92b9aeb58da969a6b2b37c507572bb9d17f581d6be1f7376ef0c3de6d9c"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 15,
+        "longDirection3": 12,
+        "lastHash": "9c100a61da2d45af5f3126342bb62f5b6f7e5aec0d8c99b6170b54685ec73d1e"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -3,
+        "lastHash": "38445f440587de6ffd48102b4dc819277831a2dca9c4dff580c14b6a311f1b3c"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 0,
+        "lastHash": "56d572359d13918b710666d63666eb66859ae9887469a593fe63d54112c74357"
+    },
+    {
+        "subMoonCount": 7,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 5,
+        "longDirection2": 5,
+        "moonDirection": 12,
+        "longDirection3": 9,
+        "lastHash": "8cc0d59e38ebf94a950d692f810f628058d127ad41b0287b632142e46170a5ad"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 14,
+        "longDirection2": 17,
+        "moonDirection": 9,
+        "longDirection3": 18,
+        "lastHash": "2c1d2f036c5e2fbb91d7d614894686f0af215d2f94ff4e0a93d112a30d3175a3"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 14,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": 11,
+        "moonDirection": 15,
+        "longDirection3": 18,
+        "lastHash": "eb2fcfe2eaa97d3613622e5e231ce194aaa5bcf3422249f22b9c80865ca673cb"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": 0,
+        "lastHash": "c1f9d55d49459a6c66975f7004e0f56c069145bb119a3b2aa01f855aa1d448bc"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 13,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 12,
+        "longDirection3": 0,
+        "lastHash": "54281582fa0b09483399cf08a53ce71ba296ecc60f66cf252115da15dfbefc74"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 12,
+        "longDirection3": 12,
+        "lastHash": "b83a77ba7707fd1957da4df4cf47c795bdf936ed9be0557a5a74e340ca28454d"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 8,
+        "longDirection2": 20,
+        "moonDirection": 12,
+        "longDirection3": 21,
+        "lastHash": "060319860aba1ba1ecbb6cfe7676b02469ebff7ff90a62905681e7b80a8c4279"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 12,
+        "shortDirection": 5,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -6,
+        "lastHash": "4952f6ca6bc4622fdde9a0cab21cde20ed51a4865eb7b7db2656a4c5a4f32667"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": 5,
+        "longDirection2": 14,
+        "moonDirection": 12,
+        "longDirection3": 12,
+        "lastHash": "a3617310ba84d402522b39602f273f72a73af6adfe525d09b47cb8ed49524a1b"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": 3,
+        "lastHash": "4bf6b5ed8e7bc5590154baa3206fc6f9d4b62ed9131a5f85b027fc0beced41f7"
+    },
+    {
+        "subMoonCount": 9,
+        "moonCount": 13,
+        "shortDirection": 14,
+        "longDirection": 11,
+        "longDirection2": 11,
+        "moonDirection": 12,
+        "longDirection3": 12,
+        "lastHash": "723a4ec82bc69d948389ef5e3fea6930ed26e63d5d16d799bb716798b915bda2"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": 23,
+        "moonDirection": 9,
+        "longDirection3": 18,
+        "lastHash": "048518c384dee772c58450512baeffe524077e43e5688e56f1e3a324fa900bac"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 12,
+        "longDirection3": 6,
+        "lastHash": "50635dd420aacad3d5cff3f98e0fd77797cbabb93c976b80d69d270080bc87f8"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 13,
+        "shortDirection": 8,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 12,
+        "longDirection3": 9,
+        "lastHash": "c88fb8982dc54296fe405a3b1416fd65b3909986da359a162b729017e359aad6"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 2,
+        "longDirection2": 2,
+        "moonDirection": 9,
+        "longDirection3": 6,
+        "lastHash": "71e5cf8842507da5d5ff706873485df612695b6c3fcc19684fc25b518a84d097"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 12,
+        "shortDirection": 2,
+        "longDirection": 5,
+        "longDirection2": -4,
+        "moonDirection": 9,
+        "longDirection3": -3,
+        "lastHash": "be20e0fede756c84d16da4d1d27f6129b7e5146bdcfe97d36e145728076ee371"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 13,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 12,
+        "longDirection3": -3,
+        "lastHash": "f5f428c113943ec2e7366907a2cc2cf98e3a89e3faade2452e5cff2b9c56e377"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 5,
+        "longDirection2": -1,
+        "moonDirection": 9,
+        "longDirection3": -6,
+        "lastHash": "4495021642f69014890dbea944488da7ca3570589126949e80c07d0cd6091d22"
+    },
+    {
+        "subMoonCount": 2,
+        "moonCount": 13,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 12,
+        "longDirection3": -3,
+        "lastHash": "d7fb575b90c9050c21ec9c9328014d041413aa0e2aab6ad337b4724cc0510238"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 14,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 15,
+        "longDirection3": 0,
+        "lastHash": "8d2c311231b867d404b420e5fa03fe257b6834b70e7a0a56c15bd745323432e4"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 13,
+        "shortDirection": -1,
+        "longDirection": 11,
+        "longDirection2": 11,
+        "moonDirection": 12,
+        "longDirection3": 15,
+        "lastHash": "01b5a6dd83e693c424555e0fb5d167951e27abc5257e9e7939214834c7839dce"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 15,
+        "shortDirection": 2,
+        "longDirection": 11,
+        "longDirection2": 5,
+        "moonDirection": 18,
+        "longDirection3": 21,
+        "lastHash": "8532ef741bde51d1834dee577d8032a5980fe94f47cac33ceebbc21efc476fd5"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 16,
+        "shortDirection": 8,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 21,
+        "longDirection3": 12,
+        "lastHash": "515b412f7e44cb24086528a2b5cc9c3b5c25feca9add358d96361da4afcf29c4"
+    },
+    {
+        "subMoonCount": 6,
+        "moonCount": 13,
+        "shortDirection": 8,
+        "longDirection": 2,
+        "longDirection2": -4,
+        "moonDirection": 12,
+        "longDirection3": 0,
+        "lastHash": "404df13895757127ecf70973ef264a62d7ddca6b91f18624d57fa2508a25534c"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 15,
+        "shortDirection": 2,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 18,
+        "longDirection3": 0,
+        "lastHash": "600f1f0d4f5e7cbfc4fb805738f2ebdb63075e343734ef7d2009df78c9e97b3b"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 13,
+        "shortDirection": 5,
+        "longDirection": 2,
+        "longDirection2": -1,
+        "moonDirection": 12,
+        "longDirection3": -6,
+        "lastHash": "df90686d87bab69d8bdeb3c42798addf0bfa6be9f82abdfc5685f69675ba8f92"
+    },
+    {
+        "subMoonCount": 4,
+        "moonCount": 12,
+        "shortDirection": -1,
+        "longDirection": 11,
+        "longDirection2": 8,
+        "moonDirection": 9,
+        "longDirection3": 9,
+        "lastHash": "64727845a66f18284297976374e7bd296bf193a75cfeaec1bd738b07ccaffb93"
+    },
+    {
+        "subMoonCount": 5,
+        "moonCount": 15,
+        "shortDirection": 2,
+        "longDirection": 8,
+        "longDirection2": 8,
+        "moonDirection": 18,
+        "longDirection3": 15,
+        "lastHash": "6765fb34ab1f50ca626b1b859e25c179af7a89b68b5df6b1aded51c4784e28cb"
+    },
+    {
+        "subMoonCount": 3,
+        "moonCount": 12,
+        "shortDirection": -4,
+        "longDirection": 2,
+        "longDirection2": 5,
+        "moonDirection": 9,
+        "longDirection3": 0,
+        "lastHash": "0b3a899665cf5c1eb9846c164136726fe66b819e9355b33b9ec8114725f5d6d1"
+    }
+]

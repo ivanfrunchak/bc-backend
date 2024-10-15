@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "TRENBALL",
+    "version": "1.0",
+    "description": "Auto betting for trenball",
+    "permissions": [
+        "activeTab",
+        "storage",
+        "tabs"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    },
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://bc.game/game/crash?type=trenball"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}

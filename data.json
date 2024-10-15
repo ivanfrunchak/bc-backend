@@ -1,0 +1,3783 @@
+[
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.76,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0.81,
+            "x3OfPatternWithLose": 0.72,
+            "payoutScore": 0.1,
+            "scoreOf2Floor": 0.9295275,
+            "scoreOf3Floor": 1.03494325,
+            "loseAmount": 1.04439575,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.209
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.21,
+            "scoreOfPatternWithLose": 0.52,
+            "x3OfPatternNoLimit": 0.63,
+            "x3OfPatternWithLose": 0.74,
+            "payoutScore": 0.209,
+            "scoreOf2Floor": 0.9295275,
+            "scoreOf3Floor": 1.04054075,
+            "loseAmount": 1.0055975,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.214
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.25,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.214,
+            "scoreOf2Floor": 1.04999325,
+            "scoreOf3Floor": 0.97581075,
+            "loseAmount": 0.99629,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.102
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0.71,
+            "scoreOfPatternWithLose": 0.35,
+            "x3OfPatternNoLimit": 0.87,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.102,
+            "scoreOf2Floor": 0.99629,
+            "scoreOf3Floor": 1.07113825,
+            "loseAmount": 1.024855,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.229
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.64,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.76,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.134,
+            "scoreOf2Floor": 0.9337475,
+            "scoreOf3Floor": 1.2134925,
+            "loseAmount": 1.026115,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.188
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.76,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.188,
+            "scoreOf2Floor": 0.9337475,
+            "scoreOf3Floor": 1.239265,
+            "loseAmount": 1.0257725,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.165
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.75,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.83,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.165,
+            "scoreOf2Floor": 0.9337475,
+            "scoreOf3Floor": 1.25963,
+            "loseAmount": 1.020365,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.143
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.221,
+            "scoreOf2Floor": 0.938095,
+            "scoreOf3Floor": 1.0999675,
+            "loseAmount": 1.0271925,
+            "bettingCountOfNoLimit": 0.4,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.174
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.174,
+            "scoreOf2Floor": 0.938095,
+            "scoreOf3Floor": 1.145685,
+            "loseAmount": 1.0457175,
+            "bettingCountOfNoLimit": 0.6,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.257
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.25,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.257,
+            "scoreOf2Floor": 0.938095,
+            "scoreOf3Floor": 1.1581025,
+            "loseAmount": 1.0124175,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.153
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.71,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.8,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.165,
+            "scoreOf2Floor": 0.9641375,
+            "scoreOf3Floor": 1.121615,
+            "loseAmount": 1.0272575,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.18
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.75,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.18,
+            "scoreOf2Floor": 0.9641375,
+            "scoreOf3Floor": 1.14005,
+            "loseAmount": 1.018435,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.121
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.57,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.121,
+            "scoreOf2Floor": 0.9641375,
+            "scoreOf3Floor": 1.1802875,
+            "loseAmount": 1.0402375,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.117
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.71,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.117,
+            "scoreOf2Floor": 0.9641375,
+            "scoreOf3Floor": 1.22431,
+            "loseAmount": 1.0440225,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.116
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.88,
+            "scoreOfPatternWithLose": 0.55,
+            "x3OfPatternNoLimit": 0.76,
+            "x3OfPatternWithLose": 0.78,
+            "payoutScore": 0.184,
+            "scoreOf2Floor": 0.9626025,
+            "scoreOf3Floor": 1.0188875,
+            "loseAmount": 1.03541,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.65,
+            "scoreOfPatternWithLose": 0.58,
+            "x3OfPatternNoLimit": 0.77,
+            "x3OfPatternWithLose": 0.82,
+            "payoutScore": 0.169,
+            "scoreOf2Floor": 0.95479,
+            "scoreOf3Floor": 1.030435,
+            "loseAmount": 1.040235,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.66,
+            "scoreOfPatternWithLose": 0.67,
+            "x3OfPatternNoLimit": 0.77,
+            "x3OfPatternWithLose": 0.75,
+            "payoutScore": 0.112,
+            "scoreOf2Floor": 0.912055,
+            "scoreOf3Floor": 0.9907825,
+            "loseAmount": 1.0384925,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.293
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.26,
+            "scoreOfPatternWithLose": 0.56,
+            "x3OfPatternNoLimit": 0.73,
+            "x3OfPatternWithLose": 0.67,
+            "payoutScore": 0.293,
+            "scoreOf2Floor": 0.912055,
+            "scoreOf3Floor": 1.02368,
+            "loseAmount": 1.0328975,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.427
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.25,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.261,
+            "scoreOf2Floor": 1.07139,
+            "scoreOf3Floor": 0.9434,
+            "loseAmount": 0.983765,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.223
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.33,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.223,
+            "scoreOf2Floor": 1.07139,
+            "scoreOf3Floor": 0.9418375,
+            "loseAmount": 0.9984375,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.167
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.83,
+            "scoreOfPatternWithLose": 0.55,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0.8,
+            "payoutScore": 0.167,
+            "scoreOf2Floor": 0.9583925,
+            "scoreOf3Floor": 1.048955,
+            "loseAmount": 1.0191725,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.11
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.4,
+            "scoreOfPatternWithLose": 0.57,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.231,
+            "scoreOf2Floor": 0.93573,
+            "scoreOf3Floor": 1.0054825,
+            "loseAmount": 1.0238675,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.629
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0.8,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.142,
+            "scoreOf2Floor": 0.93692,
+            "scoreOf3Floor": 1.0064,
+            "loseAmount": 1.027765,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.89,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0.77,
+            "x3OfPatternWithLose": 0.75,
+            "payoutScore": 0.178,
+            "scoreOf2Floor": 0.919215,
+            "scoreOf3Floor": 1.0026775,
+            "loseAmount": 1.03785,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.8
+        },
+        "output": {
+            "nextScore": 0.114
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.94,
+            "scoreOfPatternWithLose": 0.55,
+            "x3OfPatternNoLimit": 0.73,
+            "x3OfPatternWithLose": 0.72,
+            "payoutScore": 0.114,
+            "scoreOf2Floor": 0.919215,
+            "scoreOf3Floor": 1.0437475,
+            "loseAmount": 1.04107,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.168
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.86,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.83,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.168,
+            "scoreOf2Floor": 0.919215,
+            "scoreOf3Floor": 1.07481,
+            "loseAmount": 1.0310625,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.164,
+            "scoreOf2Floor": 0.92679,
+            "scoreOf3Floor": 1.1036175,
+            "loseAmount": 1.0300675,
+            "bettingCountOfNoLimit": 0.4,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.11
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.11,
+            "scoreOf2Floor": 0.92679,
+            "scoreOf3Floor": 1.141475,
+            "loseAmount": 1.0378575,
+            "bettingCountOfNoLimit": 0,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.143
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.143,
+            "scoreOf2Floor": 0.92679,
+            "scoreOf3Floor": 1.1817375,
+            "loseAmount": 1.0402625,
+            "bettingCountOfNoLimit": 0,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.145
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.145,
+            "scoreOf2Floor": 0.92679,
+            "scoreOf3Floor": 1.2214275,
+            "loseAmount": 1.03969,
+            "bettingCountOfNoLimit": 0,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.205
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.88,
+            "scoreOfPatternWithLose": 0.36,
+            "x3OfPatternNoLimit": 0.86,
+            "x3OfPatternWithLose": 0.6,
+            "payoutScore": 0.176,
+            "scoreOf2Floor": 0.989695,
+            "scoreOf3Floor": 1.088225,
+            "loseAmount": 1.036635,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.143
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.33,
+            "scoreOfPatternWithLose": 0.36,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0.6,
+            "payoutScore": 0.143,
+            "scoreOf2Floor": 0.989695,
+            "scoreOf3Floor": 1.118845,
+            "loseAmount": 1.03062,
+            "bettingCountOfNoLimit": 0.6,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.166
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0.36,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0.75,
+            "payoutScore": 0.205,
+            "scoreOf2Floor": 0.986305,
+            "scoreOf3Floor": 1.13904,
+            "loseAmount": 1.0022125,
+            "bettingCountOfNoLimit": 0.6,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.143
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.8,
+            "scoreOfPatternWithLose": 0.36,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0.75,
+            "payoutScore": 0.143,
+            "scoreOf2Floor": 0.986305,
+            "scoreOf3Floor": 1.1771625,
+            "loseAmount": 1.0381225,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.146
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0.36,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0.75,
+            "payoutScore": 0.146,
+            "scoreOf2Floor": 0.986305,
+            "scoreOf3Floor": 1.2162175,
+            "loseAmount": 1.039055,
+            "bettingCountOfNoLimit": 0.8,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.104
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.6,
+            "scoreOfPatternWithLose": 0.36,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0.6,
+            "payoutScore": 0.136,
+            "scoreOf2Floor": 0.989045,
+            "scoreOf3Floor": 1.111945,
+            "loseAmount": 1.0340575,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0.75,
+            "payoutScore": 0.246,
+            "scoreOf2Floor": 0.9240125,
+            "scoreOf3Floor": 0.9710975,
+            "loseAmount": 1.0130275,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.201
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0.75,
+            "payoutScore": 0.201,
+            "scoreOf2Floor": 0.9240125,
+            "scoreOf3Floor": 1.00071,
+            "loseAmount": 1.0296125,
+            "bettingCountOfNoLimit": 0.4,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.776
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.91,
+            "scoreOfPatternWithLose": 0.56,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0.81,
+            "payoutScore": 0.114,
+            "scoreOf2Floor": 0.9481425,
+            "scoreOf3Floor": 1.0301525,
+            "loseAmount": 1.03937,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.957
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.259,
+            "scoreOf2Floor": 0.81411,
+            "scoreOf3Floor": 0.94095,
+            "loseAmount": 1.00903,
+            "bettingCountOfNoLimit": 0.2,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.116
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.83,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.116,
+            "scoreOf2Floor": 0.81411,
+            "scoreOf3Floor": 0.9811175,
+            "loseAmount": 1.0401675,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.157
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.89,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.88,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.127,
+            "scoreOf2Floor": 0.907035,
+            "scoreOf3Floor": 1.059885,
+            "loseAmount": 1.02981,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.556
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.84,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.81,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.166,
+            "scoreOf2Floor": 0.907035,
+            "scoreOf3Floor": 1.15178,
+            "loseAmount": 1.0443675,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.113
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.74,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.79,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.113,
+            "scoreOf2Floor": 0.907035,
+            "scoreOf3Floor": 1.199520875,
+            "loseAmount": 1.047740875,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.405
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.36,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.203,
+            "scoreOf2Floor": 0.975475,
+            "scoreOf3Floor": 1.177268375,
+            "loseAmount": 1.0323475,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.117
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.75,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.89,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.117,
+            "scoreOf2Floor": 0.975475,
+            "scoreOf3Floor": 1.2206558749999998,
+            "loseAmount": 1.0433875,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.127
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.63,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.6,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.127,
+            "scoreOf2Floor": 0.975475,
+            "scoreOf3Floor": 1.263140875,
+            "loseAmount": 1.042485,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.292
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 1,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.223,
+            "scoreOf2Floor": 0.774645,
+            "scoreOf3Floor": 0.97269,
+            "loseAmount": 1.022825,
+            "bettingCountOfNoLimit": 0.4,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.232
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.232,
+            "scoreOf2Floor": 0.774645,
+            "scoreOf3Floor": 0.9999025,
+            "loseAmount": 1.0272125,
+            "bettingCountOfNoLimit": 0.4,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.54
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0.22,
+            "x3OfPatternNoLimit": 0.83,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.1,
+            "scoreOf2Floor": 0.9849075,
+            "scoreOf3Floor": 1.074905,
+            "loseAmount": 1.03996,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.326
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.84,
+            "scoreOfPatternWithLose": 0.67,
+            "x3OfPatternNoLimit": 0.81,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.108,
+            "scoreOf2Floor": 0.966905,
+            "scoreOf3Floor": 1.053345,
+            "loseAmount": 1.04648,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.6
+        },
+        "output": {
+            "nextScore": 0.127
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.88,
+            "scoreOfPatternWithLose": 0.67,
+            "x3OfPatternNoLimit": 0.8,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.127,
+            "scoreOf2Floor": 0.966905,
+            "scoreOf3Floor": 1.0938175,
+            "loseAmount": 1.0404725,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.6
+        },
+        "output": {
+            "nextScore": 0.166
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.88,
+            "scoreOfPatternWithLose": 0.67,
+            "x3OfPatternNoLimit": 0.86,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.166,
+            "scoreOf2Floor": 0.966905,
+            "scoreOf3Floor": 1.1384225,
+            "loseAmount": 1.044605,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.6
+        },
+        "output": {
+            "nextScore": 0.186
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0.67,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.152,
+            "scoreOf2Floor": 0.966905,
+            "scoreOf3Floor": 1.2564725,
+            "loseAmount": 1.03914,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.6
+        },
+        "output": {
+            "nextScore": 0.126
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0.67,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.126,
+            "scoreOf2Floor": 0.966905,
+            "scoreOf3Floor": 1.30406,
+            "loseAmount": 1.0475875,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.6
+        },
+        "output": {
+            "nextScore": 0.371
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.7,
+            "scoreOfPatternWithLose": 0.29,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0.75,
+            "payoutScore": 0.17,
+            "scoreOf2Floor": 0.99217,
+            "scoreOf3Floor": 1.3150775,
+            "loseAmount": 1.0257125,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.146
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 1,
+            "scoreOfPatternNoLimit": 0.6,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.125,
+            "scoreOf2Floor": 0.89398,
+            "scoreOf3Floor": 0.9926025,
+            "loseAmount": 1.0406475,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.12
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0.75,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.244,
+            "scoreOf2Floor": 0.89398,
+            "scoreOf3Floor": 1.10704,
+            "loseAmount": 1.01683,
+            "bettingCountOfNoLimit": 0.8,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.234,
+            "scoreOf2Floor": 0.9155975,
+            "scoreOf3Floor": 1.09017,
+            "loseAmount": 1.0194875,
+            "bettingCountOfNoLimit": 0.4,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.199
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.75,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.199,
+            "scoreOf2Floor": 0.9155975,
+            "scoreOf3Floor": 1.12352,
+            "loseAmount": 1.03335,
+            "bettingCountOfNoLimit": 0.8,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.217
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.18,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.217,
+            "scoreOf2Floor": 0.9155975,
+            "scoreOf3Floor": 1.1509225,
+            "loseAmount": 1.0274025,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.255
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.76,
+            "scoreOfPatternWithLose": 0.21,
+            "x3OfPatternNoLimit": 0.85,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.1,
+            "scoreOf2Floor": 0.9937575,
+            "scoreOf3Floor": 1.1689925,
+            "loseAmount": 1.0311425,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.41
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.62,
+            "scoreOfPatternWithLose": 0.57,
+            "x3OfPatternNoLimit": 0.81,
+            "x3OfPatternWithLose": 0.77,
+            "payoutScore": 0.112,
+            "scoreOf2Floor": 0.9900125,
+            "scoreOf3Floor": 1.0483625,
+            "loseAmount": 1.0272075,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.112
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.71,
+            "scoreOfPatternWithLose": 0.38,
+            "x3OfPatternNoLimit": 0.8,
+            "x3OfPatternWithLose": 0.6,
+            "payoutScore": 0.112,
+            "scoreOf2Floor": 0.9900125,
+            "scoreOf3Floor": 1.0858225,
+            "loseAmount": 1.03746,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.125
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.67,
+            "scoreOfPatternWithLose": 0.38,
+            "x3OfPatternNoLimit": 0.83,
+            "x3OfPatternWithLose": 0.6,
+            "payoutScore": 0.125,
+            "scoreOf2Floor": 0.9900125,
+            "scoreOf3Floor": 1.1136175,
+            "loseAmount": 1.027795,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.196
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.27,
+            "scoreOfPatternWithLose": 0.57,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.294,
+            "scoreOf2Floor": 0.94158,
+            "scoreOf3Floor": 0.9978975,
+            "loseAmount": 1.00654,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.201
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.67,
+            "scoreOfPatternWithLose": 0.52,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0.86,
+            "payoutScore": 0.201,
+            "scoreOf2Floor": 0.94158,
+            "scoreOf3Floor": 1.048345,
+            "loseAmount": 1.0504475,
+            "bettingCountOfNoLimit": 0.6,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.198
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.84,
+            "scoreOfPatternWithLose": 0.67,
+            "x3OfPatternNoLimit": 0.81,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.162,
+            "scoreOf2Floor": 0.9671575,
+            "scoreOf3Floor": 1.0899625,
+            "loseAmount": 1.0440775,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.6
+        },
+        "output": {
+            "nextScore": 0.145
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.78,
+            "scoreOfPatternWithLose": 0.67,
+            "x3OfPatternNoLimit": 0.86,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.145,
+            "scoreOf2Floor": 0.9671575,
+            "scoreOf3Floor": 1.14364,
+            "loseAmount": 1.0536775,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.6
+        },
+        "output": {
+            "nextScore": 0.108
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.25,
+            "scoreOfPatternWithLose": 0.8,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.299,
+            "scoreOf2Floor": 1.15323,
+            "scoreOf3Floor": 1.0654975,
+            "loseAmount": 0.985985,
+            "bettingCountOfNoLimit": 0.8,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.123
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.33,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.123,
+            "scoreOf2Floor": 0.94511,
+            "scoreOf3Floor": 1.13078,
+            "loseAmount": 1.03244,
+            "bettingCountOfNoLimit": 0.6,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.637
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.87,
+            "scoreOfPatternWithLose": 0.55,
+            "x3OfPatternNoLimit": 0.81,
+            "x3OfPatternWithLose": 0.94,
+            "payoutScore": 0.112,
+            "scoreOf2Floor": 0.9735925,
+            "scoreOf3Floor": 1.0404175,
+            "loseAmount": 1.034385,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.181
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.82,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0.86,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.181,
+            "scoreOf2Floor": 0.9735925,
+            "scoreOf3Floor": 1.0583,
+            "loseAmount": 1.0178825,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.33,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.157,
+            "scoreOf2Floor": 0.8335175,
+            "scoreOf3Floor": 0.99553,
+            "loseAmount": 1.03804,
+            "bettingCountOfNoLimit": 0.6,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.292
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0.25,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.292,
+            "scoreOf2Floor": 1.109745,
+            "scoreOf3Floor": 0.935515,
+            "loseAmount": 0.9922525,
+            "bettingCountOfNoLimit": 0.8,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.252
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.82,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.86,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.118,
+            "scoreOf2Floor": 0.9414325,
+            "scoreOf3Floor": 1.05497,
+            "loseAmount": 1.041905,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.303
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.62,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.81,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.167,
+            "scoreOf2Floor": 0.9414325,
+            "scoreOf3Floor": 1.09018,
+            "loseAmount": 1.02197,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.273
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.28,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.82,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.273,
+            "scoreOf2Floor": 0.9414325,
+            "scoreOf3Floor": 1.0988475,
+            "loseAmount": 1.0086675,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.216
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.35,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0.82,
+            "payoutScore": 0.216,
+            "scoreOf2Floor": 1.0857825,
+            "scoreOf3Floor": 1.0255175,
+            "loseAmount": 0.9983025,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.159
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.83,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.87,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.15,
+            "scoreOf2Floor": 0.9614275,
+            "scoreOf3Floor": 1.0776,
+            "loseAmount": 1.04401,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.104
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.25,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.104,
+            "scoreOf2Floor": 0.9614275,
+            "scoreOf3Floor": 1.11698,
+            "loseAmount": 1.03938,
+            "bettingCountOfNoLimit": 0.8,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.272
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.8,
+            "scoreOfPatternWithLose": 0.38,
+            "x3OfPatternNoLimit": 0.81,
+            "x3OfPatternWithLose": 0.6,
+            "payoutScore": 0.112,
+            "scoreOf2Floor": 0.9901025,
+            "scoreOf3Floor": 1.09003,
+            "loseAmount": 1.0370425,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.243
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.18,
+            "scoreOfPatternWithLose": 0.38,
+            "x3OfPatternNoLimit": 0.43,
+            "x3OfPatternWithLose": 0.6,
+            "payoutScore": 0.243,
+            "scoreOf2Floor": 0.9901025,
+            "scoreOf3Floor": 1.11272,
+            "loseAmount": 1.02269,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.741
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.58,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0.73,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.108,
+            "scoreOf2Floor": 0.96386,
+            "scoreOf3Floor": 1.0538325,
+            "loseAmount": 1.03024,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.134
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.73,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0.73,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.134,
+            "scoreOf2Floor": 0.96386,
+            "scoreOf3Floor": 1.087445,
+            "loseAmount": 1.0336125,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.283
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.85,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.72,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.12,
+            "scoreOf2Floor": 0.88895,
+            "scoreOf3Floor": 1.0838975,
+            "loseAmount": 1.050785,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.233
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0.28,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.233,
+            "scoreOf2Floor": 0.88895,
+            "scoreOf3Floor": 1.0984125,
+            "loseAmount": 1.014515,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.53,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.7,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.17,
+            "scoreOf2Floor": 0.894505,
+            "scoreOf3Floor": 1.0838175,
+            "loseAmount": 1.0437025,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.124
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.75,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.124,
+            "scoreOf2Floor": 0.894505,
+            "scoreOf3Floor": 1.121835,
+            "loseAmount": 1.0380175,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.164
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.86,
+            "scoreOfPatternWithLose": 0.13,
+            "x3OfPatternNoLimit": 0.83,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.104,
+            "scoreOf2Floor": 0.98499,
+            "scoreOf3Floor": 1.170995,
+            "loseAmount": 1.0715125,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.121
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.75,
+            "scoreOfPatternWithLose": 0.13,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.121,
+            "scoreOf2Floor": 0.98499,
+            "scoreOf3Floor": 1.2144925,
+            "loseAmount": 1.0434975,
+            "bettingCountOfNoLimit": 0.8,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.101
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.89,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0.71,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.11,
+            "scoreOf2Floor": 0.96551,
+            "scoreOf3Floor": 1.2653525,
+            "loseAmount": 1.033995,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.127
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0.88,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0.93,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.127,
+            "scoreOf2Floor": 0.96551,
+            "scoreOf3Floor": 1.3067425,
+            "loseAmount": 1.04139,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.126
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.66,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.71,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.172,
+            "scoreOf2Floor": 0.9801475,
+            "scoreOf3Floor": 1.184865,
+            "loseAmount": 1.0270125,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.6
+        },
+        "output": {
+            "nextScore": 0.224
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.3,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.79,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.224,
+            "scoreOf2Floor": 0.9801475,
+            "scoreOf3Floor": 1.1936625,
+            "loseAmount": 1.0087975,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.6
+        },
+        "output": {
+            "nextScore": 0.129
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.67,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.69,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.129,
+            "scoreOf2Floor": 0.9801475,
+            "scoreOf3Floor": 1.2356725,
+            "loseAmount": 1.04201,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.6
+        },
+        "output": {
+            "nextScore": 0.544
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.83,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.8,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.133,
+            "scoreOf2Floor": 0.9157925,
+            "scoreOf3Floor": 1.0960825,
+            "loseAmount": 1.04859,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.117
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.33,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.117,
+            "scoreOf2Floor": 0.9157925,
+            "scoreOf3Floor": 1.1224875,
+            "loseAmount": 1.026405,
+            "bettingCountOfNoLimit": 0.6,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.11
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.11,
+            "scoreOf2Floor": 0.9157925,
+            "scoreOf3Floor": 1.1686975,
+            "loseAmount": 1.04621,
+            "bettingCountOfNoLimit": 0,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.151
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.91,
+            "scoreOfPatternWithLose": 0.56,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0.9,
+            "payoutScore": 0.138,
+            "scoreOf2Floor": 0.9720725,
+            "scoreOf3Floor": 1.0297725,
+            "loseAmount": 1.0482325,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.114
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0.83,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.114,
+            "scoreOf2Floor": 0.9720725,
+            "scoreOf3Floor": 1.0527075,
+            "loseAmount": 1.022935,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.94,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.166,
+            "scoreOf2Floor": 0.9720725,
+            "scoreOf3Floor": 1.146357975,
+            "loseAmount": 1.04678085,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.145
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.75,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0.33,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.145,
+            "scoreOf2Floor": 0.9720725,
+            "scoreOf3Floor": 1.2018339999999998,
+            "loseAmount": 1.055476025,
+            "bettingCountOfNoLimit": 0.8,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.538
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.8,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.153,
+            "scoreOf2Floor": 0.983765,
+            "scoreOf3Floor": 1.2260564999999999,
+            "loseAmount": 1.0219975,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.11
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.67,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.11,
+            "scoreOf2Floor": 0.983765,
+            "scoreOf3Floor": 1.2724765,
+            "loseAmount": 1.04642,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.854
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.102,
+            "scoreOf2Floor": 0.908845,
+            "scoreOf3Floor": 1.0585,
+            "loseAmount": 1.0409975,
+            "bettingCountOfNoLimit": 0,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.151
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.151,
+            "scoreOf2Floor": 0.908845,
+            "scoreOf3Floor": 1.0927025,
+            "loseAmount": 1.0342025,
+            "bettingCountOfNoLimit": 0,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.307
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.8,
+            "scoreOfPatternWithLose": 0.42,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 0.6,
+            "payoutScore": 0.139,
+            "scoreOf2Floor": 0.989235,
+            "scoreOf3Floor": 1.1210825,
+            "loseAmount": 1.04741,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.221
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.19,
+            "scoreOfPatternWithLose": 0.42,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0.6,
+            "payoutScore": 0.221,
+            "scoreOf2Floor": 0.989235,
+            "scoreOf3Floor": 1.1453025,
+            "loseAmount": 1.02422,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.55,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.16,
+            "scoreOf2Floor": 0.9599775,
+            "scoreOf3Floor": 1.054115,
+            "loseAmount": 1.0225075,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.87,
+            "scoreOfPatternWithLose": 0.44,
+            "x3OfPatternNoLimit": 0.71,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.189,
+            "scoreOf2Floor": 0.9521975,
+            "scoreOf3Floor": 1.0081625,
+            "loseAmount": 1.0334575,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.278
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.31,
+            "scoreOfPatternWithLose": 0.67,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.278,
+            "scoreOf2Floor": 1.0334575,
+            "scoreOf3Floor": 0.9811875,
+            "loseAmount": 0.9955325,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.6
+        },
+        "output": {
+            "nextScore": 0.286
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.26,
+            "scoreOfPatternWithLose": 0.67,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.286,
+            "scoreOf2Floor": 1.0334575,
+            "scoreOf3Floor": 0.9641325,
+            "loseAmount": 0.982945,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.6
+        },
+        "output": {
+            "nextScore": 0.139
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.87,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0.71,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.128,
+            "scoreOf2Floor": 0.91675,
+            "scoreOf3Floor": 1.000315,
+            "loseAmount": 1.0431725,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.8
+        },
+        "output": {
+            "nextScore": 0.127
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.82,
+            "scoreOfPatternWithLose": 0.56,
+            "x3OfPatternNoLimit": 0.93,
+            "x3OfPatternWithLose": 0.76,
+            "payoutScore": 0.127,
+            "scoreOf2Floor": 0.91675,
+            "scoreOf3Floor": 1.032115,
+            "loseAmount": 1.0318,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.161
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.5,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.151,
+            "scoreOf2Floor": 0.9537925,
+            "scoreOf3Floor": 1.10758,
+            "loseAmount": 1.035465,
+            "bettingCountOfNoLimit": 0.8,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.164
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.67,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.164,
+            "scoreOf2Floor": 0.9537925,
+            "scoreOf3Floor": 1.142185,
+            "loseAmount": 1.034605,
+            "bettingCountOfNoLimit": 0.6,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.428
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.79,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.135,
+            "scoreOf2Floor": 0.97935,
+            "scoreOf3Floor": 1.08398,
+            "loseAmount": 1.03456,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.137
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.63,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.6,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.137,
+            "scoreOf2Floor": 0.97935,
+            "scoreOf3Floor": 1.12843,
+            "loseAmount": 1.04445,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.103
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.73,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.144,
+            "scoreOf2Floor": 0.961425,
+            "scoreOf3Floor": 1.2077025,
+            "loseAmount": 1.0238675,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.13
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.8,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.13,
+            "scoreOf2Floor": 0.961425,
+            "scoreOf3Floor": 1.2478325,
+            "loseAmount": 1.04013,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.158
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.8,
+            "scoreOfPatternWithLose": 0.52,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0.91,
+            "payoutScore": 0.166,
+            "scoreOf2Floor": 0.9709875,
+            "scoreOf3Floor": 1.020315,
+            "loseAmount": 1.0234575,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.35
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.7,
+            "scoreOfPatternWithLose": 0.33,
+            "x3OfPatternNoLimit": 0.68,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.153,
+            "scoreOf2Floor": 0.9975025,
+            "scoreOf3Floor": 1.35792,
+            "loseAmount": 1.03226,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.619
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.25,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.298,
+            "scoreOf2Floor": 0.940655,
+            "scoreOf3Floor": 0.9973175,
+            "loseAmount": 1.00149,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.135
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.61,
+            "scoreOfPatternWithLose": 0.56,
+            "x3OfPatternNoLimit": 0.71,
+            "x3OfPatternWithLose": 0.83,
+            "payoutScore": 0.135,
+            "scoreOf2Floor": 0.940655,
+            "scoreOf3Floor": 1.02821,
+            "loseAmount": 1.0308925,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.16
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.67,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.7,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.16,
+            "scoreOf2Floor": 0.940655,
+            "scoreOf3Floor": 1.059295,
+            "loseAmount": 1.031085,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.19,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.267,
+            "scoreOf2Floor": 1.0635775,
+            "scoreOf3Floor": 0.9974775,
+            "loseAmount": 0.9868825,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.78,
+            "scoreOfPatternWithLose": 0.61,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0.67,
+            "payoutScore": 0.192,
+            "scoreOf2Floor": 0.9295225,
+            "scoreOf3Floor": 1.016425,
+            "loseAmount": 1.023325,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.105
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.83,
+            "scoreOfPatternWithLose": 0.54,
+            "x3OfPatternNoLimit": 0.6,
+            "x3OfPatternWithLose": 0.77,
+            "payoutScore": 0.105,
+            "scoreOf2Floor": 0.9295225,
+            "scoreOf3Floor": 1.0489775,
+            "loseAmount": 1.0325525,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.128
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.5,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.128,
+            "scoreOf2Floor": 0.9295225,
+            "scoreOf3Floor": 1.0866375,
+            "loseAmount": 1.03766,
+            "bettingCountOfNoLimit": 0.4,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.315
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.78,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.71,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.112,
+            "scoreOf2Floor": 0.9295225,
+            "scoreOf3Floor": 1.1391325,
+            "loseAmount": 1.043715,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.462
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.7,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.64,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.146,
+            "scoreOf2Floor": 0.9744975,
+            "scoreOf3Floor": 1.1568575,
+            "loseAmount": 1.0363275,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.128
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.75,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.92,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.128,
+            "scoreOf2Floor": 0.9744975,
+            "scoreOf3Floor": 1.1938275,
+            "loseAmount": 1.03697,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.123
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.56,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.8,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.123,
+            "scoreOf2Floor": 0.9744975,
+            "scoreOf3Floor": 1.2375225,
+            "loseAmount": 1.043695,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.151
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.69,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.78,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.125,
+            "scoreOf2Floor": 0.907595,
+            "scoreOf3Floor": 1.11263,
+            "loseAmount": 1.0383475,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.959
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.69,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.73,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.156,
+            "scoreOf2Floor": 0.941405,
+            "scoreOf3Floor": 1.0715125,
+            "loseAmount": 1.043025,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.317
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.72,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.62,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.105,
+            "scoreOf2Floor": 0.941405,
+            "scoreOf3Floor": 1.1402175,
+            "loseAmount": 1.0492325,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.194
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.56,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.6,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.194,
+            "scoreOf2Floor": 0.941405,
+            "scoreOf3Floor": 1.178475,
+            "loseAmount": 1.0382575,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.175
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.71,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.6,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.175,
+            "scoreOf2Floor": 0.941405,
+            "scoreOf3Floor": 1.2068225,
+            "loseAmount": 1.0283475,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.114
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0.71,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.114,
+            "scoreOf2Floor": 0.941405,
+            "scoreOf3Floor": 1.233005,
+            "loseAmount": 1.0261825,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.145
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.145,
+            "scoreOf2Floor": 0.941405,
+            "scoreOf3Floor": 1.2743525,
+            "loseAmount": 1.0413475,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.116
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0.33,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0.67,
+            "payoutScore": 0.244,
+            "scoreOf2Floor": 0.9948575,
+            "scoreOf3Floor": 1.347865,
+            "loseAmount": 1.0046675,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.157
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.63,
+            "scoreOfPatternWithLose": 0.33,
+            "x3OfPatternNoLimit": 0.4,
+            "x3OfPatternWithLose": 0.67,
+            "payoutScore": 0.157,
+            "scoreOf2Floor": 0.9948575,
+            "scoreOf3Floor": 1.377085,
+            "loseAmount": 1.02922,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.451
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.82,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.64,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.13,
+            "scoreOf2Floor": 0.9767325,
+            "scoreOf3Floor": 1.0540225,
+            "loseAmount": 1.0434025,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.33,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.122,
+            "scoreOf2Floor": 0.9153825,
+            "scoreOf3Floor": 1.15653,
+            "loseAmount": 1.0536725,
+            "bettingCountOfNoLimit": 0.6,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.16
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.16,
+            "scoreOf2Floor": 0.9153825,
+            "scoreOf3Floor": 1.205775,
+            "loseAmount": 1.049245,
+            "bettingCountOfNoLimit": 0.4,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.117
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.102,
+            "scoreOf2Floor": 0.9153825,
+            "scoreOf3Floor": 1.29584545,
+            "loseAmount": 1.04957295,
+            "bettingCountOfNoLimit": 0.4,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.578
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.11,
+            "scoreOf2Floor": 0.82548,
+            "scoreOf3Floor": 1.28445295,
+            "loseAmount": 1.0358575,
+            "bettingCountOfNoLimit": 0,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.124
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.124,
+            "scoreOf2Floor": 0.82548,
+            "scoreOf3Floor": 1.3211811249999998,
+            "loseAmount": 1.0367281750000001,
+            "bettingCountOfNoLimit": 0,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.419
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.78,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.155,
+            "scoreOf2Floor": 0.82548,
+            "scoreOf3Floor": 1.365401125,
+            "loseAmount": 1.0407675,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.29
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.13,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.29,
+            "scoreOf2Floor": 1.190910675,
+            "scoreOf3Floor": 1.009228175,
+            "loseAmount": 0.9928375,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.338
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.56,
+            "scoreOfPatternWithLose": 0.25,
+            "x3OfPatternNoLimit": 0.71,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.131,
+            "scoreOf2Floor": 0.9928375,
+            "scoreOf3Floor": 1.227363175,
+            "loseAmount": 1.02706,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.11
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.71,
+            "scoreOfPatternWithLose": 0.25,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.11,
+            "scoreOf2Floor": 0.9928375,
+            "scoreOf3Floor": 1.270586725,
+            "loseAmount": 1.04322355,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.133
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.57,
+            "scoreOfPatternWithLose": 0.25,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.133,
+            "scoreOf2Floor": 0.9928375,
+            "scoreOf3Floor": 1.311956725,
+            "loseAmount": 1.04137,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.118
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0.8,
+            "scoreOfPatternWithLose": 0.25,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.118,
+            "scoreOf2Floor": 0.9928375,
+            "scoreOf3Floor": 1.3460542249999998,
+            "loseAmount": 1.0340975,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.174
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0.6,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0.78,
+            "payoutScore": 0.227,
+            "scoreOf2Floor": 0.9920825,
+            "scoreOf3Floor": 1.0493,
+            "loseAmount": 1.0010525,
+            "bettingCountOfNoLimit": 0.4,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.201
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0.33,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0.67,
+            "payoutScore": 0.201,
+            "scoreOf2Floor": 0.9920825,
+            "scoreOf3Floor": 1.057945,
+            "loseAmount": 1.008645,
+            "bettingCountOfNoLimit": 0,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.148
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0.25,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.105,
+            "scoreOf2Floor": 0.986155,
+            "scoreOf3Floor": 1.104725,
+            "loseAmount": 1.043035,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.133
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0.25,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.133,
+            "scoreOf2Floor": 0.986155,
+            "scoreOf3Floor": 1.1449225,
+            "loseAmount": 1.0401975,
+            "bettingCountOfNoLimit": 0.8,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.143
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0.25,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.143,
+            "scoreOf2Floor": 0.986155,
+            "scoreOf3Floor": 1.1858525,
+            "loseAmount": 1.04093,
+            "bettingCountOfNoLimit": 0.8,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.162
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0.25,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.128,
+            "scoreOf2Floor": 0.986155,
+            "scoreOf3Floor": 1.27406,
+            "loseAmount": 1.0429475,
+            "bettingCountOfNoLimit": 0.8,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.282
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0.38,
+            "scoreOfPatternWithLose": 0.25,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.282,
+            "scoreOf2Floor": 0.986155,
+            "scoreOf3Floor": 1.2768025,
+            "loseAmount": 1.0027425,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.614
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.8,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.106,
+            "scoreOf2Floor": 0.9646925,
+            "scoreOf3Floor": 1.25876,
+            "loseAmount": 1.047915,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.244
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.33,
+            "scoreOfPatternWithLose": 0.44,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.211,
+            "scoreOf2Floor": 0.9264475,
+            "scoreOf3Floor": 1.010115,
+            "loseAmount": 1.0152675,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.22
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0.38,
+            "scoreOfPatternWithLose": 0.47,
+            "x3OfPatternNoLimit": 0.33,
+            "x3OfPatternWithLose": 0.79,
+            "payoutScore": 0.22,
+            "scoreOf2Floor": 0.9264475,
+            "scoreOf3Floor": 1.0350575,
+            "loseAmount": 1.0249425,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.116
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.29,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.236,
+            "scoreOf2Floor": 0.9067925,
+            "scoreOf3Floor": 1.2696175,
+            "loseAmount": 1.0222575,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.148
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.63,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.148,
+            "scoreOf2Floor": 0.9067925,
+            "scoreOf3Floor": 1.29649,
+            "loseAmount": 1.0268725,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.241
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.69,
+            "scoreOfPatternWithLose": 0.45,
+            "x3OfPatternNoLimit": 0.66,
+            "x3OfPatternWithLose": 0.76,
+            "payoutScore": 0.123,
+            "scoreOf2Floor": 0.904935,
+            "scoreOf3Floor": 1.0366525,
+            "loseAmount": 1.01887,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.118
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.67,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.92,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.118,
+            "scoreOf2Floor": 0.904935,
+            "scoreOf3Floor": 1.0608425,
+            "loseAmount": 1.02419,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.107
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0.33,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.263,
+            "scoreOf2Floor": 1.07986,
+            "scoreOf3Floor": 0.915385,
+            "loseAmount": 0.999725,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.6
+        },
+        "output": {
+            "nextScore": 0.115
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.2,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0.77,
+            "payoutScore": 0.115,
+            "scoreOf2Floor": 0.93059,
+            "scoreOf3Floor": 1.0463775,
+            "loseAmount": 1.0359275,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.315
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.68,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.62,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.13,
+            "scoreOf2Floor": 0.93059,
+            "scoreOf3Floor": 1.1797075,
+            "loseAmount": 1.03753,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.67,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.176,
+            "scoreOf2Floor": 0.903045,
+            "scoreOf3Floor": 1.159225,
+            "loseAmount": 1.0403975,
+            "bettingCountOfNoLimit": 0.6,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.113
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.113,
+            "scoreOf2Floor": 0.903045,
+            "scoreOf3Floor": 1.18437,
+            "loseAmount": 1.025145,
+            "bettingCountOfNoLimit": 0.2,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.599
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.121,
+            "scoreOf2Floor": 0.9490325,
+            "scoreOf3Floor": 1.0899425,
+            "loseAmount": 1.0288425,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.144
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.144,
+            "scoreOf2Floor": 0.9490325,
+            "scoreOf3Floor": 1.1144225,
+            "loseAmount": 1.02448,
+            "bettingCountOfNoLimit": 0.2,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.141
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0.5,
+            "x3OfPatternNoLimit": 0.33,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.141,
+            "scoreOf2Floor": 0.9490325,
+            "scoreOf3Floor": 1.16134,
+            "loseAmount": 1.0469175,
+            "bettingCountOfNoLimit": 0.6,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.115
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.77,
+            "scoreOfPatternWithLose": 0.4,
+            "x3OfPatternNoLimit": 0.7,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.161,
+            "scoreOf2Floor": 0.9880425,
+            "scoreOf3Floor": 1.189415,
+            "loseAmount": 1.0396275,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.281
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.16,
+            "scoreOfPatternWithLose": 0.4,
+            "x3OfPatternNoLimit": 1,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.281,
+            "scoreOf2Floor": 0.9880425,
+            "scoreOf3Floor": 1.19395,
+            "loseAmount": 1.004535,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.186
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.68,
+            "scoreOfPatternWithLose": 0.4,
+            "x3OfPatternNoLimit": 0.62,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.1,
+            "scoreOf2Floor": 0.9972625,
+            "scoreOf3Floor": 1.19658545,
+            "loseAmount": 1.03008295,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.116
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.75,
+            "scoreOfPatternWithLose": 0.4,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0.5,
+            "payoutScore": 0.116,
+            "scoreOf2Floor": 0.9972625,
+            "scoreOf3Floor": 1.24047045,
+            "loseAmount": 1.043885,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.238
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.67,
+            "scoreOfPatternWithLose": 0.3,
+            "x3OfPatternNoLimit": 0.63,
+            "x3OfPatternWithLose": 0.67,
+            "payoutScore": 0.115,
+            "scoreOf2Floor": 0.994555,
+            "scoreOf3Floor": 1.0549025,
+            "loseAmount": 1.030845,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.156
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.65,
+            "scoreOfPatternWithLose": 0.27,
+            "x3OfPatternNoLimit": 0.92,
+            "x3OfPatternWithLose": 0.67,
+            "payoutScore": 0.156,
+            "scoreOf2Floor": 0.994555,
+            "scoreOf3Floor": 1.100315,
+            "loseAmount": 1.0454125,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 1,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.75,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.15,
+            "scoreOf2Floor": 0.9827075,
+            "scoreOf3Floor": 1.1454425,
+            "loseAmount": 1.040785,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.8
+        },
+        "output": {
+            "nextScore": 0.282
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.09,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.282,
+            "scoreOf2Floor": 1.040785,
+            "scoreOf3Floor": 1.006495,
+            "loseAmount": 0.9830025,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.173
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.64,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.64,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.173,
+            "scoreOf2Floor": 0.9830025,
+            "scoreOf3Floor": 1.071395,
+            "loseAmount": 1.0476075,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.8
+        },
+        "output": {
+            "nextScore": 0.417
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.64,
+            "scoreOfPatternWithLose": 0.6,
+            "x3OfPatternNoLimit": 0.66,
+            "x3OfPatternWithLose": 0.83,
+            "payoutScore": 0.16,
+            "scoreOf2Floor": 0.96407,
+            "scoreOf3Floor": 1.0478225,
+            "loseAmount": 1.036145,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.106
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.67,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0.93,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.106,
+            "scoreOf2Floor": 0.96407,
+            "scoreOf3Floor": 1.1006775,
+            "loseAmount": 1.052855,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.122
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.58,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0.71,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.122,
+            "scoreOf2Floor": 0.96407,
+            "scoreOf3Floor": 1.1254475,
+            "loseAmount": 1.02477,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.373
+        }
+    },
+    {
+        "input": {
+            "direction": 1,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 1,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.222,
+            "scoreOf2Floor": 0.96407,
+            "scoreOf3Floor": 1.14012,
+            "loseAmount": 1.01078,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.345
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.88,
+            "scoreOfPatternWithLose": 0.53,
+            "x3OfPatternNoLimit": 0.66,
+            "x3OfPatternWithLose": 0.74,
+            "payoutScore": 0.12,
+            "scoreOf2Floor": 0.9501075,
+            "scoreOf3Floor": 1.02129145,
+            "loseAmount": 1.030485,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.177
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.81,
+            "scoreOfPatternWithLose": 0.25,
+            "x3OfPatternNoLimit": 0.92,
+            "x3OfPatternWithLose": 1,
+            "payoutScore": 0.177,
+            "scoreOf2Floor": 0.9501075,
+            "scoreOf3Floor": 1.05600895,
+            "loseAmount": 1.0347175,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.8
+        },
+        "output": {
+            "nextScore": 0.343
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.63,
+            "scoreOfPatternWithLose": 0.27,
+            "x3OfPatternNoLimit": 0.58,
+            "x3OfPatternWithLose": 0.67,
+            "payoutScore": 0.109,
+            "scoreOf2Floor": 0.993965,
+            "scoreOf3Floor": 1.1090025,
+            "loseAmount": 1.049835,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 0.187
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.67,
+            "scoreOfPatternWithLose": 0.27,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0.67,
+            "payoutScore": 0.187,
+            "scoreOf2Floor": 0.993965,
+            "scoreOf3Floor": 1.141395,
+            "loseAmount": 1.0323925,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 1
+        },
+        "output": {
+            "nextScore": 1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.182,
+            "scoreOf2Floor": 0.9758175,
+            "scoreOf3Floor": 1.26604035,
+            "loseAmount": 1.0375,
+            "bettingCountOfNoLimit": 0,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.1
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0,
+            "scoreOfPatternNoLimit": 0,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.1,
+            "scoreOf2Floor": 0.9758175,
+            "scoreOf3Floor": 1.31907785,
+            "loseAmount": 1.0530375,
+            "bettingCountOfNoLimit": 0,
+            "bettingCountOfLose": 0.2
+        },
+        "output": {
+            "nextScore": 0.19
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.9,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.78,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.14,
+            "scoreOf2Floor": 0.91216,
+            "scoreOf3Floor": 1.097315,
+            "loseAmount": 1.0924125,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.136
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.33,
+            "scoreOfPatternNoLimit": 0.67,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.5,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.136,
+            "scoreOf2Floor": 0.91216,
+            "scoreOf3Floor": 1.2182475,
+            "loseAmount": 1.1209325,
+            "bettingCountOfNoLimit": 0.6,
+            "bettingCountOfLose": 0
+        },
+        "output": {
+            "nextScore": 0.237
+        }
+    },
+    {
+        "input": {
+            "direction": 0,
+            "x3Count": 0.66,
+            "scoreOfPatternNoLimit": 0.9,
+            "scoreOfPatternWithLose": 0,
+            "x3OfPatternNoLimit": 0.67,
+            "x3OfPatternWithLose": 0,
+            "payoutScore": 0.1,
+            "scoreOf2Floor": 0.8611675,
+            "scoreOf3Floor": 0.91388,
+            "loseAmount": 1.0467325,
+            "bettingCountOfNoLimit": 1,
+            "bettingCountOfLose": 0.4
+        },
+        "output": {
+            "nextScore": 0.186
+        }
+    }
+]

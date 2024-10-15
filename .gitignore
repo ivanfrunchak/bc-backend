@@ -1,0 +1,27 @@
+node_modules
+.idea
+/.env
+/.env*
+env.json
+env*.json
+build/
+package-lock.json
+app-linux
+app-macos
+app-win.exe
+coral-backend.exe
+/frontend/yarn.lock
+yarn.lock
+symbols.json
+
+log*.txt
+# TOTAL_BETTING*.json
+# branch.json
+# lastPayout.json
+# log*.txt
+# PREDICTS*.json
+# TIME_DATA.json
+# SCORE*.json
+# LOSE_*.json
+# payouts.json
+# lastPayout.json

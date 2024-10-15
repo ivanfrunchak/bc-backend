@@ -1,0 +1,2885 @@
+[
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 1.85,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 2.76,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 1.55,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 2,
+        "currentIndex": 2,
+        "payout": 83.66,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 2,
+        "currentIndex": 1,
+        "payout": 1,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 2.58,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 1.12,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 1.4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 2.55,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 1.65,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 3,
+        "payout": 1.24,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 3,
+        "payout": 1.08,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 8.19,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 3.31,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 1.77,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 13.57,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 1.23,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 1.77,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 1.12,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 2.19,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 5.23,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 1.97,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 2.15,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 1.14,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 8.76,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 2.48,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 4.91,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 1.16,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 2.7,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 1.06,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 2.71,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 23.96,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 12.42,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 5.54,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 21.51,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 1.05,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 1,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 3,
+        "payout": 1.25,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 0,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 3,
+        "payout": 21.48,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 1.02,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 1.16,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 5.93,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 1.16,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 4.41,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 1.79,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 2.97,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 1.08,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 3,
+        "payout": 1.06,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 3,
+        "payout": 2.06,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 5.42,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 2,
+        "payout": 4.51,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 1.29,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 1,
+        "payout": 1.72,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 3,
+        "payout": 252.24,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 3,
+        "payout": 1.55,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 3,
+        "payout": 6.62,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "betOrNot": 1,
+        "engineTrend": 1,
+        "entireTrend": 1,
+        "currentIndex": 3,
+        "payout": 1.09,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 8.73,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 10.28,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 4.77,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.82,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 2.74,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.1,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 2.27,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.39,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 14.72,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 5.94,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.77,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.14,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 10.75,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.56,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 5.53,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.69,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.06,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.06,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.48,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.07,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.73,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.18,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.62,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.19,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.84,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 5.72,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.81,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.56,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 5.82,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1.94,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 1,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 5.63,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 1,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.21,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.11,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.67,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 6.24,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.08,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 15.58,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.99,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 16.78,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.15,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.2,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 5.21,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.66,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.38,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1.98,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.82,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.05,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.28,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 91.89,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.1,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.2,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.94,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.5,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.74,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.47,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.97,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.33,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.41,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 16.4,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 5.28,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 2.48,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1.3,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 1,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.37,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 3.61,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1.21,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.02,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.33,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 9,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 33.98,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.28,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.53,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.38,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.43,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 18.57,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.06,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 18.78,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.15,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.94,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.07,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.22,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 24.05,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 13.75,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.42,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.7,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.73,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.44,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 7.93,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 4.98,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 1,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 1,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.63,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 2.35,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 34.21,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.81,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.6,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1.17,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.15,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1.31,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.2,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 18.61,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1.58,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.1,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.14,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.32,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.03,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.46,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.46,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.87,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 5.2,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 7.3,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 5.04,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.42,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.65,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.88,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1.98,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 7,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.92,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.29,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.7,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 4.48,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 4.05,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 1,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.19,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.16,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.82,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 17.11,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.39,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.48,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.24,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 2,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.55,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 23.66,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 20.23,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.63,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.18,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 4.04,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 2.38,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 2.8,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.09,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 2.44,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 19.12,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 5.14,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.46,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1.56,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.23,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.94,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 75.6,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 8.4,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.54,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.04,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 6.87,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.59,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.05,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 4.36,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.6,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.14,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.41,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 4.14,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1.64,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 2.06,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1.76,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.8,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.27,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.54,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 2.64,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.99,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.11,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.43,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.12,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.98,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1.26,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 11.77,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.04,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.14,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 3,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 2.62,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.19,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 2.13,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 6.57,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.2,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.03,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.75,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.15,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.82,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.15,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.99,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.7,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.72,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 2.84,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.53,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.04,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 3.59,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.43,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 31.53,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.61,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.83,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.61,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 6.06,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.62,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.24,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 5.17,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 2.21,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 10.58,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.06,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 2.34,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.51,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 2.31,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 6.21,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 11.21,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 0,
+        "payout": 1.27,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 3.25,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.88,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.07,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 5.47,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 10.82,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 66.48,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.9,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 2.19,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.25,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 2.25,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.05,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 4.47,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 1.11,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1.92,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.66,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.47,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.97,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 5.65,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 2.13,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 4,
+        "bettingType": 1
+    },
+    {
+        "isRight": 0,
+        "payout": 4.36,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 1.02,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 1
+    },
+    {
+        "isRight": 1,
+        "payout": 2.35,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 2
+    },
+    {
+        "isRight": 1,
+        "payout": 1,
+        "betOrNot": 1,
+        "engineTrend": 0,
+        "entireTrend": 0,
+        "entireTrend4": 0,
+        "currentIndex": 5,
+        "bettingType": 1
+    }
+]

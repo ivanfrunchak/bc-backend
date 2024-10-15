@@ -1,0 +1,27 @@
+{
+    "manifest_version": 2,
+    "name": "Trenball 2",
+    "version": "1.0",
+    "description": "",
+    "permissions": [
+        "tabs",
+        "storage",
+        "declarativeContent",
+        "<all_urls>"
+    ],
+    "background": {
+        "scripts": []
+    },
+    "browser_action": {
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://bcgame.im/game/crash?type=trenball&a=2"
+            ],
+            "js": [
+                "crash.js"
+            ]
+        }
+    ]
+}

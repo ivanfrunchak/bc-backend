@@ -1,0 +1,28 @@
+{
+    "manifest_version": 2,
+    "name": "Classic",
+    "version": "1.0",
+    "description": "",
+    "permissions": [
+        "tabs",
+        "declarativeContent",
+        "storage",
+        "<all_urls>"
+    ],
+    "background": {
+        "scripts": []
+    },
+    "browser_action": {
+    },
+    "content_scripts": [
+        {
+            "matches": [
+                "https://bc.game/game/crash?utm_source=4cxse6dr",
+                "https://bcgame.im/game/limbo"
+            ],
+            "js": [
+                "crash.js"
+            ]
+        }
+    ]
+}
